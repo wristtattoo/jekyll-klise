@@ -1,18 +1,36 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: A multi-disciplined designer with over 20 years experience in user-centered design. Being curious, interested in users behavior and looking to understand the reasons behind users actions. Observing and inquiring eventually to create a solution. ... read more.
 comments: false
+tags: ['About', 'UX',  'UI', 'UCD', 'HCI']
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+A multi-disciplined designer with over 20 years experience in user-centered design.
 
-If you have a question about him or else, just send a letter to him.
+> Being curious, interested in users behavior and looking to understand the reasons behind users actions. Observing and inquiring eventually to create a solution. Thinking in needs, not features. Being open-minded, listening and empathising. Savouring the process of trying to understand the "why" behind the problem and studying the situation and not putting the solution before the problem ~ Terry
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Graced with prestigious awards and recognition through the years from establishments like Adobe/Macromedia, MTV, VH1, Q Magazine, BT, The Guardian and The Telegraph.
 
-**may u needs ✨**
+Terry resides in Brigg, North Lincolnshire, DN20 8DQ, United Kingdom
+
+### TL;DR
+To get hold of a current CV/résumé contact mail `[at-sign]` terrywells.co.uk
+
+Terry is a full-time UX/UI Designer 🧘‍♂️ and participating member of UX/UI/UCD HCI at The Interaction Design Foundation, Denmark. A portfolio of work is available on request.
+
+# Testimonials
+
+### Anthony Kiedis - Red Hot Chili Peppers
+
+> "Terry – Thanks for taking the time and spending the energy to chronicle the history of our band. Good work and all the best" ~ <a href="https://blackiedammett.com/" title="Anthony" alt="Anthony">Anthony (Red Hot Chili Peppers)</a> ~`Anthony's feedback for an interactive discography component on redhotchilipeppers.com for Terry's Design Masters in 2003. Red Hot Chili Peppers were the live client 🌶️`
+
+> “Anthony Kiedis (founder and lead singer of the world’s greatest band the Red Hot Chili Peppers) has signed an endorsement of your work on the website and we both commend you on your overall creation of and continued great work on our website. You are not only a stalwart soldier for the cause but a best friend and true knight of the round table” ~ <a href="https://blackiedammett.com/" title="Link to Lords of the Sunset Strip" alt="Link to Lords of the Sunset Strip">Blackie Dammett (Anthony’s Father)</a>
+
+<br>
+
+This site is work in progress. Much anticipated ~~dark mode~~, search ~~and pagination~~ is under development.
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
