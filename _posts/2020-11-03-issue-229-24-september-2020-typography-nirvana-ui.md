@@ -4,12 +4,14 @@ title: Issue 229 - 24 September 2020 (typography, nirvana, ui)
 tags: typography nirvana ui
 date: 2020-09-24T18:36:22.687Z
 ---
+![Signifier fonts - Klim Type Foundry](/assets/uploads/issue-229.png "Signifier fonts - Klim Type Foundry")
+
 # Links of The Week ending 24 Sept 2020
 
 <a href="https://klim.co.nz/blog/signifier-design-information/" title="Signifier fonts - Klim Type Foundry" alt="Signifier fonts - Klim Type Foundry" target="_blank">Signifier fonts - Klim Type Foundry</a>
 
 > We don’t have material anymore, simply forms mediated by screens. Our input is mediated, our output is mediated. We shape letters from numbers and draw curves with equations. Letters are no longer things, but pictures of things transmitted by light.
-
+>
 > Form is the void and void is the form.  ~ Klim Type Foundry
 
 <br/>
