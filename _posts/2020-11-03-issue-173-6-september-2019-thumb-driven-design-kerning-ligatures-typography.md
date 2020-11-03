@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 173 6 September 2019 (thumb-driven, design, kerning, ligatures,
+title: Issue 173 - 6 September 2019 (thumb-driven, design, kerning, ligatures,
   typography)
 tags: design kerning ligatures typography
 date: 2019-09-06T15:44:15.283Z
