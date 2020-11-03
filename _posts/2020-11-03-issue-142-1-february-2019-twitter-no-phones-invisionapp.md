@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Issue 142 1 February 2019 (twitter, no phones, invisionapp)
-tags: twitter, no phones, invisionapp
+tags: twitter no phones invisionapp
 date: 2019-02-01T15:22:35.810Z
 ---
 # Links of The Week ending 1 February 2019
