@@ -2,7 +2,7 @@
 layout: post
 title: Issue 81 - 1 December 2017 (skeuomorphic, ui, bored)
 tags: skeuomorphic ui bored
-date: 2017-11-03T12:54:56.737Z
+date: 2017-12-01T12:54:56.737Z
 ---
 # Links of The Week ending 1 December 2017
 
