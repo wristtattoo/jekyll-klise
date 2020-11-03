@@ -2,7 +2,7 @@
 layout: post
 title: Issue 102 - 27 April 2018 (flickr, brand, design, gender)
 tags: flickr brand design gender
-date: 2020-11-03T13:51:12.944Z
+date: 2018-05-04T12:51:12.944Z
 ---
 # Links of The Week ending 27 April 2018
 
