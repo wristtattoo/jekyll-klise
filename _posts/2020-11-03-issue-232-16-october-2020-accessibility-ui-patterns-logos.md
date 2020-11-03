@@ -4,6 +4,8 @@ title: Issue 232 - 16 October 2020 (accessibility, ui, patterns, logos)
 tags: accessibility ui patterns logos
 date: 2020-10-16T18:40:28.206Z
 ---
+![How to Design for Web Accessibility](/assets/uploads/issue-232.png "How to Design for Web Accessibility")
+
 # Links of The Week ending 16 October 2020
 
 <a href="https://elementor.com/blog/web-accessibility-design-guide/" title="How to Design for Web Accessibility" alt="How to Design for Web Accessibility" target="_blank">Elementor Team Writes: How to Design for Web Accessibility — Key Principles & Tips</a>
