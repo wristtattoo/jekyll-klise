@@ -4,6 +4,8 @@ title: Issue 231 - 9 October 2020 (gmail, bing, graphic design)
 tags: gmail bing graphic design
 date: 2020-10-09T18:38:24.521Z
 ---
+![Google's new Gmail logo leaves users fuming](/assets/uploads/issue-231.jpg "Google's new Gmail logo leaves users fuming")
+
 # Links of The Week ending 9 October 2020
 
 🤬 &nbsp; <a href="https://www.creativebloq.com/news/gmail-logo-google-workspace" title="Google's new Gmail logo leaves users fuming" alt="Google's new Gmail logo leaves users fuming" target="_blank">Google's new Gmail logo leaves users fuming</a>
