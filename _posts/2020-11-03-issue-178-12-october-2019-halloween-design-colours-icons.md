@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 178 12 October 2019 (halloween, design, colours, icons)
+title: Issue 178 - 12 October 2019 (halloween, design, colours, icons)
 tags: halloween design colours icons
 date: 2019-10-12T15:50:04.604Z
 ---
