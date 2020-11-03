@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 179 18 October 2019 (margaret, calvert, typography)
+title: Issue 179 - 18 October 2019 (margaret, calvert, typography)
 tags: typography
 date: 2019-10-18T15:51:04.110Z
 ---
