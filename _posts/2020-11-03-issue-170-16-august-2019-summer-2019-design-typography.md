@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 170 16 August 2019 (summer, 2019, design, typography)
+title: Issue 170 - 16 August 2019 (summer, 2019, design, typography)
 tags: summer 2019 design typography
 date: 2019-08-16T15:35:23.315Z
 ---
