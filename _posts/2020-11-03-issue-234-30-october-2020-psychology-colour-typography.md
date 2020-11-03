@@ -4,6 +4,8 @@ title: Issue 234 - 30 October 2020 (psychology, colour, typography)
 tags: psychology colour typography
 date: 2020-10-30T19:42:27.135Z
 ---
+![Futura® Now](/assets/uploads/issue-234.png "Futura® Now")
+
 # Links of The Week ending 30 October 2020
 
 <a href="https://www.monotype.com/fonts/futura-now" title="Futura® Now" alt="Futura® Now" target="_blank">Futura® Now - The Most Futura. Ever.</a>
