@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 180 25 October 2019 (accessible, colour, systems)
+title: Issue 180 - 25 October 2019 (accessible, colour, systems)
 tags: accessible colour systems
 date: 2019-10-25T15:52:01.734Z
 ---
