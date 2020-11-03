@@ -5,11 +5,13 @@ title: Issue 230 - 2 October 2020 (anti-design, graphic design, photography,
 tags: anti-design photography icons
 date: 2020-10-02T18:37:18.766Z
 ---
+![The 5 main anti-trends in design](/assets/uploads/issue-230.png "The 5 main anti-trends in design")
+
 # Links of The Week ending 24 Sept 2020
 
 <a href="https://uxdesign.cc/the-5-main-anti-trends-in-design-e5629c1b217d" title="The 5 main anti-trends in design" alt="The 5 main anti-trends in design" target="_blank">The 5 main anti-trends in design</a>
 
-<a href="https://venngage.com/blog/graphic-design-trends/" title="7 Graphic Design Trends That Will Dominate 2021 [Infographic]" alt="7 Graphic Design Trends That Will Dominate 2021 [Infographic]" target="_blank">7 Graphic Design Trends That Will Dominate 2021 [Infographic]</a>
+<a href="https://venngage.com/blog/graphic-design-trends/" title="7 Graphic Design Trends That Will Dominate 2021 [Infographic]" alt="7 Graphic Design Trends That Will Dominate 2021 [Infographic]" target="_blank">7 Graphic Design Trends That Will Dominate 2021 \[Infographic]</a>
 
 <a href="https://uxplanet.org/an-attempt-at-understanding-how-the-gen-x-uses-whatsapp-a-ux-research-case-study-f13e3961ba3b" title="An attempt at understanding how the Gen-X uses WhatsApp — A UX Research Case Study" alt="An attempt at understanding how the Gen-X uses WhatsApp — A UX Research Case Study" target="_blank">An attempt at understanding how the Gen-X uses WhatsApp — A UX Research Case Study</a>
 
