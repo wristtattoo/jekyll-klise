@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 171 23 August 2019 (aim, messaging, paintings)
+title: Issue 171 - 23 August 2019 (aim, messaging, paintings)
 tags: aim messaging paintings
 date: 2019-08-23T15:41:38.709Z
 ---
