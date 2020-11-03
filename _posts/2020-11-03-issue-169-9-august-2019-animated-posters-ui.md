@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 169 9 August 2019 (animated, posters, ui)
+title: Issue 169 - 9 August 2019 (animated, posters, ui)
 tags: animated posters ui
 date: 2019-08-09T15:21:40.578Z
 ---
