@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 181 1 November 2019 (ui, buttons, tim, burton)
+title: Issue 181 - 1 November 2019 (ui, buttons, tim, burton)
 tags: ui buttons
 date: 2019-11-01T16:53:06.045Z
 ---
