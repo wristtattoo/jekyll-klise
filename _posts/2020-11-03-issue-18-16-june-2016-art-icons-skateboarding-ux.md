@@ -10,7 +10,7 @@ date: 2016-06-16T09:46:49.342Z
 
 <a href="https://www.smashingmagazine.com/2016/05/easy-steps-to-better-logo-design/" target="_blank">Easy Steps To Better Icon Design</a>
 
-<a href="https://uxdesign.cc/do-icons-need-labels-6cb4f4282c00#.dnef22mk2"t arget="_blank">Do Icons Need Labels?</a>
+<a href="https://uxdesign.cc/do-icons-need-labels-6cb4f4282c00#.dnef22mk2"  target="_blank">Do Icons Need Labels?</a>
 
 <a href="http://www.webdesignerdepot.com/2016/06/deal-create-fonts-in-seconds-in-adobe-illustrator/" target="_blank">Deal: Create fonts in seconds in Adobe Illustrator</a>
 
