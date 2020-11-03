@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 177 4 October 2019 (yahoo!, designers, copyright)
+title: Issue 177 - 4 October 2019 (yahoo!, designers, copyright)
 tags: yahoo! designers copyright
 date: 2019-10-04T15:49:09.307Z
 ---
