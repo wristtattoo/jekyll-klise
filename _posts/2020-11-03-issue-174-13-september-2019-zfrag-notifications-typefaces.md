@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 174 13 September 2019 (zfrag, notifications, typefaces)
+title: Issue 174 - 13 September 2019 (zfrag, notifications, typefaces)
 tags: notifications typefaces
 date: 2019-09-13T15:45:19.220Z
 ---
