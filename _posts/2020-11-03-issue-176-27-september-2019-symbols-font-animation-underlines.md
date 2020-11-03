@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 176 27 September 2019 (symbols, font, animation, underlines)
+title: Issue 176 - 27 September 2019 (symbols, font, animation, underlines)
 tags: symbols font animation, underlines
 date: 2019-09-27T15:48:05.771Z
 ---
