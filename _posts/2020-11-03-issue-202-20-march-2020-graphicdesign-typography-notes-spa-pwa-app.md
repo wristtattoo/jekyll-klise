@@ -2,7 +2,7 @@
 title: Issue 203 - 27 March 2020 (typography, graphicdesign, graphic, design,
   illustration)
 tags: typography illustration
-date: 2020-11-03T18:47:59.648Z
+date: 2020-03-27T18:47:59.648Z
 ---
 # Links of The Week ending 27 March 2020
 
