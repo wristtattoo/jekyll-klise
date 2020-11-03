@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 23 February 2017 (error messages, vaughan oliver, photography)
+title: Issue 42 - 23 February 2017 (error messages, vaughan oliver, photography)
 tags: error messages vaughan oliver photography
 date: 2017-02-23T12:00:53.618Z
 ---
