@@ -4,6 +4,8 @@ title: Issue 228 - 18 September 2020 (responsive, adaptive, AVIF, css, nostalgia
 tags: AVIF responsive css
 date: 2020-09-18T18:34:35.030Z
 ---
+![Winamp Skin Museum](/assets/uploads/issue-228.png "Winamp Skin Museum")
+
 # Links of The Week ending 18 September 2020
 
 <a href="https://skins.webamp.org/" title="Winamp Skin Museum" alt="Winamp Skin Museum" target="_blank">Winamp Skin Museum</a>
