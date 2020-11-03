@@ -2,7 +2,7 @@
 layout: post
 title: Issue 233 - 23 October 2020 (typography, psychology, fonts, illustration)
 tags: typography psychology fonts illustration
-date: 2020-11-03T19:41:36.985Z
+date: 2020-10-23T18:41:36.985Z
 ---
 # Links of The Week ending 23 October 2020
 
