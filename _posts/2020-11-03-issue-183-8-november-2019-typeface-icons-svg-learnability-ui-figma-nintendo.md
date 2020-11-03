@@ -2,7 +2,7 @@
 layout: post
 title: Issue 183 - 8 November 2019 (typeface, icons, svg, learnability, ui,
   figma, nintendo)
-tags: (typeface icons svg learnability ui figma nintendo
+tags: typeface icons svg learnability ui figma nintendo
 date: 2019-11-08T16:57:10.586Z
 ---
 # Links of The Week ending 8 November 2019
