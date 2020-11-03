@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 172 30 August 2019 (self-esteem, anxiety, working)
+title: Issue 172 - 30 August 2019 (self-esteem, anxiety, working)
 tags: self-esteem, anxiety, working
 date: 2019-08-30T15:42:35.895Z
 ---
