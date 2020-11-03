@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 175 20 September 2019 (iconsvg, multidisciplinary, approach)
+title: Issue 175 - 20 September 2019 (iconsvg, multidisciplinary, approach)
 tags: icons svg
 date: 2019-09-20T15:47:01.388Z
 ---
