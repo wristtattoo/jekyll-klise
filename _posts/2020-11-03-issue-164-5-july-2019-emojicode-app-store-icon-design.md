@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 164 5 July 2019 (emojicode, app, store, icon, design)
+title: Issue 164 - 5 July 2019 (emojicode, app, store, icon, design)
 tags: emojicode app store icon design
 date: 2019-07-05T15:07:59.274Z
 ---
+![The 8 most important UI animations of all time](/assets/uploads/issue-164.png "The 8 most important UI animations of all time")
+
 # Links of The Week ending 5 July 2019
 
 <a href="https://www.invisionapp.com/inside-design/the-8-most-important-ui-animations-of-all-time/" target="_blank">The 8 most important UI animations of all time</a>
