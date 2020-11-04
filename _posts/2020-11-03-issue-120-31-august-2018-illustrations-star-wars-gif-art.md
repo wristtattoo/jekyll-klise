@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 120 31 August 2018 (illustrations, star wars, gif, art)
+title: Issue 120 - 31 August 2018 (illustrations, star wars, gif, art)
 tags: illustrations star wars gif art
 date: 2018-08-31T13:23:37.250Z
 ---
+![Illustrations inspired by the one star reviews](/assets/uploads/issue-120.png "Illustrations inspired by the one star reviews")
+
 # Links of The Week ending 31 August 2018
 
 <a href="https://www.topic.com/too-hot-too-crowded-needs-more-vending-machines" title="Illustrations inspired by the one star reviews" target="_blank" alt="Illustrations inspired by the one star reviews">Illustrations inspired by the one star reviews</a>
