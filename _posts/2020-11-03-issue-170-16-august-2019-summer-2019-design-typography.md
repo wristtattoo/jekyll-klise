@@ -4,6 +4,8 @@ title: Issue 170 - 16 August 2019 (summer, 2019, design, typography)
 tags: summer 2019 design typography
 date: 2019-08-16T15:35:23.315Z
 ---
+![Type in the digital era is a mess](/assets/uploads/issue-170.png "Type in the digital era is a mess")
+
 # Links of The Week ending 16 August 2019"
 
 <a href="https://www.fastcompany.com/90340882/type-in-the-digital-era-is-a-mess" title="Type in the digital era is a mess" alt="Type in the digital era is a mess" target="_blank">Type in the digital era is a mess</a>
