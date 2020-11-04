@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 110 22 June 2018 (comics, design challenge, beauty app)
+title: Issue 110 - 22 June 2018 (comics, design challenge, beauty app)
 tags: comics design challenge beauty app
 date: 2018-06-22T13:08:16.491Z
 ---
+![BubbleSort Zines!](/assets/uploads/issue-110.jpg "BubbleSort Zines!")
+
 # Links of The Week ending 22 June 2018
 
 <a href="https://shop.bubblesort.io/" target="_blank" title="BubbleSort Zines! for ages 8-100! Each zine focuses on one concept & is filled with comics, diagrams, examples and exercises." alt="BubbleSort Zines! for ages 8-100! Each zine focuses on one concept & is filled with comics, diagrams, examples and exercises.">BubbleSort Zines! for ages 8-100! Each zine focuses on one concept & is filled with comics, diagrams, examples and exercises.</a> /
