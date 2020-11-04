@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 121 7 September 2018 (dyslexia, opendyslexic, pixel art, httpster)
+title: Issue 121 - 7 September 2018 (dyslexia, opendyslexic, pixel art, httpster)
 tags: dyslexia opendyslexic pixel art httpster
 date: 2018-09-07T13:24:51.113Z
 ---
+![7 Things I Learned Creating an Accessibility Guide for Designers](/assets/uploads/issue-121.png "7 Things I Learned Creating an Accessibility Guide for Designers")
+
 # Dyslexia Awareness Week 2018
 
 <a href="https://blog.prototypr.io/7-things-i-learned-creating-an-accessibility-guide-for-designers-4715af78f68a" target="_blank" title="7 Things I Learned Creating an Accessibility Guide for Designers" alt="7 Things I Learned Creating an Accessibility Guide for Designers">7 Things I Learned Creating an Accessibility Guide for Designers</a>
