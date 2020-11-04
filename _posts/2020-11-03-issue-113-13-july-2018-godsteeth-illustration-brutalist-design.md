@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 113 13 July 2018 (godsteeth, illustration, brutalist, design)
+title: Issue 113 - 13 July 2018 (godsteeth, illustration, brutalist, design)
 tags: godsteeth illustration brutalist design
 date: 2018-07-13T13:14:54.165Z
 ---
+![Godsteeth Illustration Prints](/assets/uploads/issue-113.png "Godsteeth Illustration Prints")
+
 # Links of The Week ending 13 July 2018
 
 <a href="https://www.instagram.com/godsteethillustration/"  target="_blank">Godsteeth Illustration Prints</a> / 
