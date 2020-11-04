@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 115 27 July 2018 (geocities, search, y2k, misinformation)
+title: Issue 115 - 27 July 2018 (geocities, search, y2k, misinformation)
 tags: geocities search y2k misinformation
 date: 2018-07-27T13:17:14.194Z
 ---
