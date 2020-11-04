@@ -4,6 +4,8 @@ title: Issue 114 20 July 2018 (doom, modding, pix2pix, westworld)
 tags: doom modding pix2pix westworld
 date: 2018-07-20T13:15:56.731Z
 ---
+![Thought I’d see what the Doom modding community is up to these days...](/assets/uploads/issue-114.png "Thought I’d see what the Doom modding community is up to these days...")
+
 # Links of The Week ending 20 July 2018
 
 <a href="https://twitter.com/ultrabrilliant/status/1017328107257253888" target="_blank">“Thought I’d see what the Doom modding community is up to these days.… “</a> / 
