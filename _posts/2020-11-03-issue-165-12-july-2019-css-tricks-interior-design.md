@@ -4,11 +4,14 @@ title: Issue 165 - 12 July 2019 (css, tricks, interior, design)
 tags: css tricks interior design
 date: 2019-07-12T15:09:54.066Z
 ---
+![Developing a robust font-loading strategy for CSS Tricks](/assets/uploads/issue-165.png "Developing a robust font-loading strategy for CSS Tricks")
+
 # Links of The Week ending 12 July 2019
 
 <a href="https://www.zachleat.com/web/css-tricks-web-fonts/" target="_blank">Developing a robust font-loading strategy for CSS Tricks</a>
 
 <a href="https://pop.marinacc.io/2019/07/10/foreshadowing-an-internet-health-crisis/" target="_blank">Article - Foreshadowing an internet health crisis</a>
+
 <p class="m_-7579174252563844222null"><a href="https://www.freshfonts.io/">Gangster Grotesk | A typeface designed by Fresh Fonts</a></p>
 <a href="https://dribbble.com/aaronpou" target="_blank">Aaron Poe's Typography Dribbble Portfolio</a>
 
