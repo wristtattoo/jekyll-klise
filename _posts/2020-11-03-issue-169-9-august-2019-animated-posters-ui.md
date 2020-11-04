@@ -4,6 +4,8 @@ title: Issue 169 - 9 August 2019 (animated, posters, ui)
 tags: animated posters ui
 date: 2019-08-09T15:21:40.578Z
 ---
+![The Moving Posters](/assets/uploads/issue-169.png "The Moving Posters")
+
 # Links of The Week ending 9 August 2019
 
 <a href="https://www.instagram.com/themovingposters/" title="The Moving Poster" alt="The Moving Posters" target="_blank">The Moving Posters (instagram)- Animated posters from around the world</a>
