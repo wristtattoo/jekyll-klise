@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 167 26 July 2019 (poolside, fm, website, ux)
+title: Issue 167 - 26 July 2019 (poolside, fm, website, ux)
 tags: poolside website ux
 date: 2019-07-26T15:14:27.942Z
 ---
