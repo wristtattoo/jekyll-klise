@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 107 1 June 2018 (logo hidden meaning challenge, dark mode)
+title: Issue 107 - 1 June 2018 (logo hidden meaning challenge, dark mode)
 tags: logo dark mode
 date: 2018-06-01T13:02:35.881Z
 ---
+![Designer Challenges Himself To Create Logos With Hidden Meanings For A Year](/assets/uploads/issue-107.png "Designer Challenges Himself To Create Logos With Hidden Meanings For A Year")
+
 # Links of The Week ending 1 June 2018
 
 <a href="https://designyoutrust.com/2018/05/designer-challenges-himself-to-create-logos-with-hidden-meanings-for-a-year" title="Designer Challenges Himself To Create Logos With Hidden Meanings For A Year" alt="Designer Challenges Himself To Create Logos With Hidden Meanings For A Year" target="_blank">Designer Challenges Himself To Create Logos With Hidden Meanings For A Year</a> /
