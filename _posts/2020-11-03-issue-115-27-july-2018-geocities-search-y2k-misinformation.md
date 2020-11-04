@@ -4,6 +4,8 @@ title: Issue 115 27 July 2018 (geocities, search, y2k, misinformation)
 tags: geocities search y2k misinformation
 date: 2018-07-27T13:17:14.194Z
 ---
+![Robot Art](/assets/uploads/issue-115.jpg "Robot Art")
+
 # Links of The Week ending 27 July 2018
 
 <a href="https://robotart.org/" target="_blank">Robot Art. Art imagined by deep learning neural networks, multiple AI algorithms, and feedback loops at all levels...</a>
