@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 114 20 July 2018 (doom, modding, pix2pix, westworld)
+title: Issue 114 - 20 July 2018 (doom, modding, pix2pix, westworld)
 tags: doom modding pix2pix westworld
 date: 2018-07-20T13:15:56.731Z
 ---
