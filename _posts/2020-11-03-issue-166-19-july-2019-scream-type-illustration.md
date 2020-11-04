@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 166 19 July 2019 (scream!, type, illustration)
+title: Issue 166 - 19 July 2019 (scream!, type, illustration)
 tags: scream type illustration
 date: 2019-07-19T15:11:51.664Z
 ---
