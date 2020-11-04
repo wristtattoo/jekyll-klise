@@ -4,6 +4,8 @@ title: Issue 168 - 2 August 2019 (illustrated, movie, maps, design)
 tags: illustrated movie maps design
 date: 2019-08-02T15:18:51.986Z
 ---
+![Paths to the Future - Illustrated Movie Maps](/assets/uploads/issue-168.jpg "Paths to the Future - Illustrated Movie Maps")
+
 # Links of The Week ending 2 August 2019
 
 <a href="http://www.andrewdegraff.com/moviemaps" title="Paths to the Future - Illustrated Movie Maps" alt="Paths to the Future - Illustrated Movie Maps" target="_blank">Paths to the Future - Illustrated Movie Maps</a>
