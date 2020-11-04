@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 168 2 August 2019 (illustrated, movie, maps, design)
+title: Issue 168 - 2 August 2019 (illustrated, movie, maps, design)
 tags: illustrated movie maps design
 date: 2019-08-02T15:18:51.986Z
 ---
