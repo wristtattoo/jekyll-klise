@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 106 25 May 2018 (airbnb cereal, cats, interaction design)
+title: Issue 106 - 25 May 2018 (airbnb cereal, cats, interaction design)
 tags: airbnb cereal cats interaction design
 date: 2018-05-25T13:01:33.479Z
 ---
+![Neko Bousou - aka Armored Cats](/assets/uploads/issue-106.png "Neko Bousou - aka Armored Cats")
+
 # Links of The Week ending 25 May 2018
 
 <a href="https://airbnb.design/introducing-airbnb-cereal/" title="Introducing Airbnb Cereal" alt="Introducing Airbnb Cereal" target="_blank">Introducing Airbnb Cereal</a> /
