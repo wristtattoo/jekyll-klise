@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 165 12 July 2019 (css, tricks, interior, design)
+title: Issue 165 - 12 July 2019 (css, tricks, interior, design)
 tags: css tricks interior design
 date: 2019-07-12T15:09:54.066Z
 ---
