@@ -4,6 +4,8 @@ title: Issue 166 - 19 July 2019 (scream!, type, illustration)
 tags: scream type illustration
 date: 2019-07-19T15:11:51.664Z
 ---
+![Invision's guide to Splash screens](/assets/uploads/issue-166.png "Invision's guide to Splash screens")
+
 # Links of The Week ending 19 July 2019
 
 <a title="Invision's guide to Splash screens" href="https://www.invisionapp.com/inside-design/splash-screens/" target="_blank">Invision's guide to Splash screens</a>
