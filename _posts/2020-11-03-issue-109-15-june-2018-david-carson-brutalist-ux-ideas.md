@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 109 15 June 2018 (david carson, brutalist ux, ideas)
+title: Issue 109 - 15 June 2018 (david carson, brutalist ux, ideas)
 tags: david carson brutalist ux ideas
 date: 2018-06-15T13:07:01.588Z
 ---
+![eXtreme Go Horse (XGH) Process](/assets/uploads/issue-109.png "eXtreme Go Horse (XGH) Process")
+
 # Links of The Week ending 15 June 2018
 
 <a href="https://gist.github.com/banaslee/4147370">eXtreme Go Horse (XGH) Process</a> (since <a href="https://terrywells.co.uk/issue-108/" target="_blank">last week’s Brutalist UX</a> was a hit) /
