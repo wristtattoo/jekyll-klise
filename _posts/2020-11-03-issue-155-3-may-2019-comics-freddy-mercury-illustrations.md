@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 155 3 May 2019 (comics, freddy mercury, illustrations)
+title: Issue 155 - 3 May 2019 (comics, freddy mercury, illustrations)
 tags: comics freddy mercury illustration
 date: 2019-05-03T14:40:37.885Z
 ---
+![Freddy Mercury of Planet Mercury Comics](/assets/uploads/issue-155.jpg "Freddy Mercury of Planet Mercury Comics")
+
 # Links of The Week ending 23 May 2019
 
 <a href="https://www.behance.net/gallery/78662637/Planet-Mercury-Comics-The-Series" title="Freddy Mercury of Planet Mercury Comics" alt="Freddy Mercury of Planet Mercury Comics" target="_blank">Golden Era Comic Book Illustrations - Freddy Mercury of Planet Mercury Comics</a>
