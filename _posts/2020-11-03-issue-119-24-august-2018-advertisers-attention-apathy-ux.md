@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 119 24 August 2018 (advertisers, attention, apathy, ux)
+title: Issue 119 - 24 August 2018 (advertisers, attention, apathy, ux)
 tags: advertisers attention apathy ux
 date: 2018-08-24T13:22:32.297Z
 ---
+![What Am I Worth to Advertisers? My Obsessive Quest to Put a Price on My Attention](/assets/uploads/issue-119.png "What Am I Worth to Advertisers? My Obsessive Quest to Put a Price on My Attention")
+
 # Links of The Week ending 24 August 2018
 
 <a href="https://gizmodo.com/what-am-i-worth-to-advertisers-my-obsessive-quest-to-p-1828343202" target="_blank" title="What Am I Worth to Advertisers? My Obsessive Quest to Put a Price on My Attention" alt="What Am I Worth to Advertisers? My Obsessive Quest to Put a Price on My Attention">What Am I Worth to Advertisers? My Obsessive Quest to Put a Price on My Attention</a>
