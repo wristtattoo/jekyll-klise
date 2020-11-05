@@ -4,6 +4,8 @@ title: Issue 78 - 10 November 2017 (tesla, typography, flexbox, icons)
 tags: tesla typography flexbox icons
 date: 2017-11-10T12:51:05.630Z
 ---
+![What Tesla’s Model 3 UI Reveals About Its Vision for the Future](/assets/uploads/issue-78.png "What Tesla’s Model 3 UI Reveals About Its Vision for the Future")
+
 # Links of The Week ending 10 November 2017
 
 <a href="https://blog.figma.com/what-teslas-model-3-ui-reveals-about-its-vision-for-the-future-eb01a75ae979" target="_blank">What Tesla’s Model 3 UI Reveals About Its Vision for the Future</a>
