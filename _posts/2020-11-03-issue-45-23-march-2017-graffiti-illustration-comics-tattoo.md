@@ -4,6 +4,8 @@ title: Issue 45 - 23 March 2017 (graffiti, illustration, comics, tattoo)
 tags: graffiti illustration comics tattoo
 date: 2017-03-23T12:05:31.052Z
 ---
+![The Good Pin Club](/assets/uploads/issue-45.jpg "The Good Pin Club")
+
 # Links of The Week ending 23 March 2017
 
 <a href="https://goodpin.club/" target="_blank">The Good Pin Club</a> - a monthly club where every two months&nbsp;they bring you a sah-weeet new pin set
