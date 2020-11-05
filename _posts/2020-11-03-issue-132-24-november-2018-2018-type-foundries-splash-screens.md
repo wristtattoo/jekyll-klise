@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 132 24 November 2018 (2018, type, foundries, splash, screens)
+title: Issue 132 - 24 November 2018 (2018, type, foundries, splash, screens)
 tags: 2018 type foundries splash screens
 date: 2018-11-24T14:59:08.818Z
 ---
+![The Best New Type Foundries of 2018](/assets/uploads/issue-132.png "The Best New Type Foundries of 2018")
+
 # Links of The Week ending 24 November 2018
 
 <a href="http://phlntn.com/emojibuilder/" target="_blank">A robust tool to help you create your own emoji library</a>
