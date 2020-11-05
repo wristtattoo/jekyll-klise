@@ -4,6 +4,8 @@ title: Issue 54 - 26 May 2017 (movie posters, chris cornell, human landscapes)
 tags: movie posters chris cornell human landscapes
 date: 2017-05-26T11:18:13.710Z
 ---
+![Jordan Bolton Movie Posters](/assets/uploads/issue-54.jpg "Jordan Bolton Movie Posters")
+
 # Links of The Week ending 26 May 2017
 
 <a href="https://www.etsy.com/uk/shop/JordanBoltonDesign" target="_blank">Jordan Bolton Movie Posters</a> (Evidence Map presentation Etsy Store)
