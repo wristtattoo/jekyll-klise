@@ -5,6 +5,8 @@ title: Issue 206 - 17 April 2020 (typography, rules, fonts, copy, art,
 tags: typography fonts rewriting seo
 date: 2020-04-17T17:53:47.940Z
 ---
+![Typewolf: The Fonts in Popular Things Identified Vol. 1](/assets/uploads/issue-206.jpg "Typewolf: The Fonts in Popular Things Identified Vol. 1")
+
 # Links of The Week ending 17 April 2020
 
 <a href="https://www.typewolf.com/blog/fonts-in-popular-things-identified-vol-1" title="Typewolf: The Fonts in Popular Things Identified Vol. 1" alt="Typewolf: The Fonts in Popular Things Identified Vol. 1" target="_blank">Typewolf: The Fonts in Popular Things Identified Vol. 1</a>
