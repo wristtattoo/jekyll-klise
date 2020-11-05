@@ -4,6 +4,8 @@ title: Issue 72 - 29 September 2017 (basil gogos, halloween, product design)
 tags: basil gogos halloween product design
 date: 2017-09-29T11:43:32.088Z
 ---
+![Basil Gogos, Who Painted Monsters With Love, Dies at 88](/assets/uploads/issue-72.jpg "Basil Gogos, Who Painted Monsters With Love, Dies at 88")
+
 # Links of The Week ending 29 September 2017
 
 <a href="https://www.nytimes.com/2017/09/26/arts/basil-gogos-who-painted-monsters-with-love-dies-at-88.html" target="_blank">Basil Gogos, Who Painted Monsters With Love, Dies at 88</a> 
