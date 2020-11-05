@@ -4,6 +4,8 @@ title: Issue 88 - 19 January 2018 (rick and morty, dead css, apple emoji)
 tags: rick and morty dead css apple emoji
 date: 2018-01-19T13:12:49.569Z
 ---
+![10 designers reimagine Rick and Morty](/assets/uploads/issue-88.png "10 designers reimagine Rick and Morty")
+
 # Links of The Week ending 19 January 2018
 
 <a href="https://www.invisionapp.com/blog/rick-morty-design" target="_blank">10 designers reimagine Rick and Morty</a>
