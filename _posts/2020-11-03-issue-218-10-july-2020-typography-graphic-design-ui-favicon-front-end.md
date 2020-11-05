@@ -4,6 +4,10 @@ title: Issue 218 - 10 July 2020 (typography, graphic, design, ui, favicon, front
 tags: typography ui favicon
 date: 2020-07-10T18:21:55.353Z
 ---
+![Better Web Type. A web typography book for web designers and web developers](/assets/uploads/issue-218.png "Better Web Type. A web typography book for web designers and web developers")
+
+# Links of the Week ending 10 July 2020
+
 <a href="https://betterwebtype.com/web-typography-book/" title="Better Web Type" alt="Better Web Type" target="_blank">Better Web Type. A web typography book for web designers and web developers is 🎉 celebrating 100 book reviews — get 20% off, use code 100REVIEWS at checkout.</a>
 
 <a href="https://medium.com/justjag/typography-in-education-db96bb2c99ea" title="Typography in Education" alt="Typography in Education" target="_blank">Typography in Education</a>
