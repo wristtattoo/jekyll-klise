@@ -5,6 +5,8 @@ title: Issue 192 - 10 January 2020 (terminal, logo, similarity, generative, art,
 tags: terminal logo art ps5 cookies tor
 date: 2020-01-10T17:07:22.634Z
 ---
+![A Designer’s Guide to the Terminal](/assets/uploads/issue-192.png "A Designer’s Guide to the Terminal")
+
 # Links of The Week ending 10 January 2020
 
 <a href="https://react.design/terminal" title="A Designer’s Guide to the Terminal" alt="A Designer’s Guide to the Terminal" target="_blank">A Designer’s Guide to the Terminal</a>
