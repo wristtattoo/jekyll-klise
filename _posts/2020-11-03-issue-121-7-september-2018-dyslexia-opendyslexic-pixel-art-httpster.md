@@ -31,6 +31,4 @@ date: 2018-09-07T13:24:51.113Z
 
 <a href="https://www.webdesignerdepot.com/2018/08/design-trends-sept-2018/" title="3 Essential Design Trends, September 2018 " target="_blank" alt="3 Essential Design Trends, September 2018 ">3 Essential Design Trends, September 2018 </a>
 
-<a href="https://www.instagram.com/jamesmoir12/" target="_blank" title="Vic Reeves Art" alt="Vic Reeves Art">Vic Reeves Art - James Roderick Moir, better known by the stage name Vic Reeves and sometimes credited as Jim Moir, is an English comedian, artist, actor and television presenter best known for his double act with Bob Mortimer.</a>
-
-<a href="https://www.instagram.com/jamesmoir12/" target="_blank" title="Instagram" alt="Instagram">Instagram</a> / <a href="https://vicreeves.tv/" title="Gallery & Shop" alt="Gallery & Shop">Gallery & Shop</a>
+<a href="https://www.instagram.com/jamesmoir12/" target="_blank" title="Vic Reeves Art" alt="Vic Reeves Art">Vic Reeves Art - James Roderick Moir, better known by the stage name Vic Reeves and sometimes credited as Jim Moir, is an English comedian, artist, actor and television presenter best known for his double act with Bob Mortimer.</a> <a href="https://www.instagram.com/jamesmoir12/" target="_blank" title="Instagram" alt="Instagram">Instagram</a> / <a href="https://vicreeves.tv/" title="Gallery & Shop" alt="Gallery & Shop">Gallery & Shop</a>
