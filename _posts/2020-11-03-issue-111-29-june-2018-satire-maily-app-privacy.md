@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Issue 111 29 June 2018 (satire, maily app, privacy)
-tags: satire, maily app, privacy
+tags: satire maily app privacy
 date: 2018-06-29T13:10:28.922Z
 ---
+![The Current State of Web Design (satirical)](/assets/uploads/issue-111.png "The Current State of Web Design (satirical)")
+
 # Links of The Week ending 29 June 2018
 
 <a href="http://fczbkk.com/current-state-of-webdesign/" target="_blank" title="The Current State of Web Design (satirical)" alt="The Current State of Web Design (satirical)">The Current State of Web Design (satirical)</a>
