@@ -4,6 +4,8 @@ title: Issue 191 - 3 January 2020 (hci, customer experience, psychology of fortn
 tags: hci customer experience psychology fortnite
 date: 2020-01-03T17:06:22.148Z
 ---
+![The psychology behind the success of Fortnite](/assets/uploads/issue-191.jpg "The psychology behind the success of Fortnite")
+
 # Links of The Week ending 3 January 2020
 
 <a href="https://uxdesign.cc/the-psychology-behind-the-success-of-fortnite-15ad5d4bb6a4" title="The psychology behind the success of Fortnite" alt="The psychology behind the success of Fortnite" target="_blank">The psychology behind the success of Fortnite</a>
