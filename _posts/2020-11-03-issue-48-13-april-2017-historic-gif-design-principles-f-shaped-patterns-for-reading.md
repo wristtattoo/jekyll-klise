@@ -5,6 +5,8 @@ title: Issue 48 - 13 April 2017 (historic gif, design principles, f-shaped
 tags: historic gif design principles patterns reading
 date: 2017-04-13T11:09:38.875Z
 ---
+![Historic GIFs wot I did](/assets/uploads/issue-48.png "Historic GIFs wot I did")
+
 # Links of The Week ending 13 April 2017
 
 <a href="https://artplusmarketing.com/historic-gifs-wot-i-did-d3e2c3afe71" target="_blank">Historic GIFs wot I did</a>
