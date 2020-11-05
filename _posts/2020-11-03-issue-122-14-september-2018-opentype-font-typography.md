@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 122 14 September 2018 (opentype, font, typography)
+title: Issue 122 - 14 September 2018 (opentype, font, typography)
 tags: opentype font typography
 date: 2018-09-14T13:26:26.013Z
 ---
+![Cool Fonts vs. Best Fonts. Fonts That People Actually Use](/assets/uploads/issue-122.png "Cool Fonts vs. Best Fonts. Fonts That People Actually Use")
+
 # Links of The Week ending 14 September 2018
 
 <a href="https://icons8.com/fonts/roboto/arial" title="Cool Fonts vs. Best Fonts. Fonts That People Actually Use" alt="Cool Fonts vs. Best Fonts. Fonts That People Actually Use" target="_blank">Cool Fonts vs. Best Fonts. Fonts That People Actually Use</a>
