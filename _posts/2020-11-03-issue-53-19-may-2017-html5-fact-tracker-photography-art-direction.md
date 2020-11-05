@@ -4,6 +4,8 @@ title: Issue 53 - 19 May 2017 (HTML5 fact tracker, photography, art direction)
 tags: HTML5 fact tracker photography art direction
 date: 2017-05-19T11:17:02.004Z
 ---
+![Red Hot Chili Peppers' John Frusciante and Flea Only](/assets/uploads/issue-53.jpg "Red Hot Chili Peppers' John Frusciante and Flea Only")
+
 # Links of The Week ending 19 May 2017
 
 <a href="https://youtu.be/6a4fUsQbQUI">Red Hot Chili Peppers' John Frusciante and Flea Only</a> (<a href="https://youtu.be/6a4fUsQbQUI" target="_blank">Blood Sugar Sex Magik - Full Album</a>) and&nbsp;not forgetting <a href="https://www.youtube.com/watch?v=i46vNV9RraE" target="_blank">that</a>&nbsp;Flea problem.
