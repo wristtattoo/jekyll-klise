@@ -4,6 +4,8 @@ title: Issue 184 - 15 November 2019 (typeface, internet, figma)
 tags: typeface internet figma
 date: 2019-11-15T16:58:28.335Z
 ---
+![Berlin Wall graffiti is made into a typeface to warn how “division is freedom’s biggest threat”](/assets/uploads/issue-184.jpg "Berlin Wall graffiti is made into a typeface to warn how “division is freedom’s biggest threat”")
+
 # Links of The Week ending 15 November 2020
 
 <a href="https://www.itsnicethat.com/news/heimat-berlin-voice-of-the-wall-typeface-graphic-design-121119" title="Berlin Wall graffiti is made into a typeface to warn how “division is freedom’s biggest threat”" alt="Berlin Wall graffiti is made into a typeface to warn how “division is freedom’s biggest threat”" target="_blank">Berlin Wall graffiti is made into a typeface to warn how “division is freedom’s biggest threat”</a>
