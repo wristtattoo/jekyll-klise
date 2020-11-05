@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 159 31 May 2019 (80s, action, figures, typography)
+title: Issue 159 - 31 May 2019 (80s, action, figures, typography)
 tags: 80s action figures typography
 date: 2019-05-31T14:45:38.040Z
 ---
+![80s Action Figure Logos](/assets/uploads/issue-159.png "80s Action Figure Logos")
+
 # Links of The Week ending 31 May 2019
 
 <a href="http://www.reaganray.com/2018/11/02/action-figures.html" target="_blank">80s Action Figure Logos</a>
