@@ -4,6 +4,8 @@ title: Issue 223 - 14 August 2020 (typography, pixel, illustration, seo, css)
 tags: typography pixel illustration seo
 date: 2020-08-14T18:29:03.452Z
 ---
+![Pixel Illustration by Pixel Jeff](/assets/uploads/issue-223.gif "Pixel Illustration by Pixel Jeff")
+
 # Links of The Week ending 14 August 2020
 
 <a href="https://jefflin276.wixsite.com/pixeljeff" title="Pixel Illustration by Pixel Jeff" alt="Pixel Illustration by Pixel Jeff" target="_blank">Pixel Illustration by Pixel Jeff</a>
