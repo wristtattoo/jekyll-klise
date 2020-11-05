@@ -4,6 +4,8 @@ title: Issue 214 - 12 June 2020 (typography, vector-libraries, seo, jamstack, ux
 tags: typography seo ux ui
 date: 2020-06-11T18:16:01.309Z
 ---
+![Absurd Illustrations that make sense](/assets/uploads/issue-214.png "Absurd Illustrations that make sense")
+
 # Links of The Week ending 12 June 2020
 
 <a href="https://absurd.design/" title="Absurd Illustrations that make sense" alt="Absurd Illustrations that make sense" target="_blank">Absurd Iillustrations that make sense</a>
@@ -22,7 +24,7 @@ date: 2020-06-11T18:16:01.309Z
 
 <a href="https://uxmag.com/articles/ui-copy-remove-vs-delete" title="UI copy: Remove vs Delete" alt="UI copy: Remove vs Delete" target="_blank">UI copy: Remove vs Delete. The difference between "remove" and "delete," and how to ensure your user understands.</a>
 
-_and_...
+*and*...
 
 <a href="https://css-tricks.com/5-myths-about-jamstack/" title="5 Myths About Jamstack" alt="5 Myths About Jamstack" target="_blank">Just rebranded static sites? 🧐 5 Myths About Jamstack</a>
 
