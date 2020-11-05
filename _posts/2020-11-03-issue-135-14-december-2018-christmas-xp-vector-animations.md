@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 135 14 December 2018 (christmas xp, vector, animations)
+title: Issue 135 - 14 December 2018 (christmas xp, vector, animations)
 tags: christmas xp vector animations
 date: 2018-12-14T15:05:28.999Z
 ---
+![Christmas XP](/assets/uploads/issue-135.png "Christmas XP")
+
 # Links of The Week ending 14 December 2018
 
 <a href="https://christmasexperiments.com/" target="_blank">Christmas XP: Your WebGL advent calendar featuring everyday a new experiment made with love by digital artists</a>
