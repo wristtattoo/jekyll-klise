@@ -4,6 +4,8 @@ title: Issue 220 - 24 July 2020 (email, typography, ux, seo)
 tags: email typography ux seo
 date: 2020-07-24T18:25:30.304Z
 ---
+![Ultimate Oldschool PC Font Pack hits v2.0](/assets/uploads/issue-220.png "Ultimate Oldschool PC Font Pack hits v2.0")
+
 # Links of The Week ending 24 July 2020
 
 <a href="https://boingboing.net/2020/07/17/ultimate-oldschool-pc-font-pac.html" title="Ultimate Oldschool PC Font Pack hits v2.0" alt="Ultimate Oldschool PC Font Pack hits v2.0" target="_blank">Ultimate Oldschool PC Font Pack hits v2.0</a>
