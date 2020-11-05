@@ -5,6 +5,8 @@ title: Issue 198 - 21 February 2020 (typography, fonts, mexican, pulp, art,
 tags: typography fonts art accessibility neumorphism vue xstate ui
 date: 2020-02-21T17:18:50.423Z
 ---
+![Unapologetically surprising, Marion Bisserier’s typeface tackles female representation in type](/assets/uploads/issue-198.png "Unapologetically surprising, Marion Bisserier’s typeface tackles female representation in type")
+
 # Links of The Week ending 21 February 2020
 
 <a href="https://www.itsnicethat.com/articles/marion-bisserier-good-girl-type-graphic-design-100220" title="Unapologetically surprising, Marion Bisserier’s typeface tackles female representation in type - via It's Nice That" alt="Unapologetically surprising, Marion Bisserier’s typeface tackles female representation in type - via It's Nice That" target="_blank">Unapologetically surprising, Marion Bisserier’s typeface tackles female representation in type - via It's Nice That</a>
