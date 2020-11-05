@@ -4,6 +4,8 @@ title: Issue 62 - 21 July 2017 (GOT, gif, mockup, machine learning)
 tags: GOT gif mockup machine learning
 date: 2017-07-21T11:28:30.824Z
 ---
+![Game of Thrones Gifs](/assets/uploads/issue-62.jpg "Game of Thrones Gifs")
+
 # Links of The Week ending 21 July 2017
 
 <a href="https://dribbble.com/eranmendel" target="_blank">Game of Thrones Gifs by Eran Mendel</a> - home page <a href="http://www.eranmendel.com/">here</a>
