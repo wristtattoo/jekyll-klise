@@ -4,6 +4,8 @@ title: Issue 221 - 31 July 2020 (mac, os8, 80s, typography, fonts)
 tags: mac os8 80s typography fonts
 date: 2020-07-31T18:26:45.054Z
 ---
+![The Psychology of Fonts (Fonts That Evoke Emotion)](/assets/uploads/issue-221.jpg "The Psychology of Fonts (Fonts That Evoke Emotion)")
+
 # Links of The Week ending 31 July 2020
 
 <a href="https://design.tutsplus.com/articles/the-psychology-of-fonts--cms-34943" title="The Psychology of Fonts (Fonts That Evoke Emotion)" alt="The Psychology of Fonts (Fonts That Evoke Emotion)" target="_blank">The Psychology of Fonts (Fonts That Evoke Emotion)</a>
