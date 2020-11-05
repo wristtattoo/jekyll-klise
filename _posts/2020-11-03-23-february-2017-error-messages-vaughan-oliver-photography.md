@@ -4,6 +4,8 @@ title: Issue 42 - 23 February 2017 (error messages, vaughan oliver, photography)
 tags: error messages vaughan oliver photography
 date: 2017-02-23T12:00:53.618Z
 ---
+![Curse Of The Man Who Sees UFOs](/assets/uploads/issue-42.jpg "Curse Of The Man Who Sees UFOs")
+
 # Links of The Week ending 23 February 2017
 
 <a href="http://www.hardformat.org/designers/vaughan-oliver-designer/" target="_blank">Vaughan Oliver - one of the great (music) designers</a>
