@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 116 03 August 2018 (drone awards, codepen, material design)
+title: Issue 116 - 03 August 2018 (drone awards, codepen, material design)
 tags: drone awards codepen material design
 date: 2018-08-03T13:18:17.326Z
 ---
+![Louisa Glenn Abstract Painting](/assets/uploads/issue-116.png "Louisa Glenn Abstract Painting")
+
 # Links of The Week ending 3 August 2018
 
 <a href="https://mymodernmet.com/drone-awards-2018/" target="_blank">Amazing Winners of ‘Drone Awards 2018’ Reveal the Best Aerial Photos of the Year</a>
