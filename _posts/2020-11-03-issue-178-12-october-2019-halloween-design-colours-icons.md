@@ -4,6 +4,8 @@ title: Issue 178 - 12 October 2019 (halloween, design, colours, icons)
 tags: halloween design colours icons
 date: 2019-10-12T15:50:04.604Z
 ---
+![Icons8](/assets/uploads/issue-178.png "Icons8")
+
 # Links of The Week ending 12 October 2019
 
 <a href="https://icons8.com/animated-icons">200 Free Animated Icons Made by </a><a href="https://icons8.com" target="_blank">Icons8</a> free for a <a href="https://icons8.com/license"> link </a>
