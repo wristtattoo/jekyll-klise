@@ -4,6 +4,8 @@ title: Issue 86 - 6 January 2018 (shoeless css, colour, ux, ui)
 tags: shoeless css colour ux, ui
 date: 2018-01-06T13:09:45.770Z
 ---
+![Improving text readability for dyslexic users with skip-ink underlines](/assets/uploads/issue-86.png "Improving text readability for dyslexic users with skip-ink underlines")
+
 # Links of The Week ending 6 January 2018
 
 <a href="https://medium.com/@iamhiwelo/improving-text-readability-for-dyslexic-users-with-skip-ink-underlines-bf52a2f3426b" target="_blank">Improving text readability for dyslexic users with skip-ink underlines</a>
