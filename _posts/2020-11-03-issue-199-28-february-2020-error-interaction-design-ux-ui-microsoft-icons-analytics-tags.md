@@ -5,6 +5,8 @@ title: Issue 199 - 28 February 2020 (error, interaction, design, ux, ui,
 tags: error interaction design ux ui microsoft icons analytics tags
 date: 2020-02-28T17:20:32.876Z
 ---
+![How to create great error pages](/assets/uploads/issue-199.png "How to create great error pages")
+
 # Links of The Week ending 28 February 2020
 
 <a href="https://uxdesign.cc/how-to-create-great-error-pages-b2de5e5daca8" title="How to create great error pages" alt="How to create great error pages" target="_blank">How to create great error pages</a>
