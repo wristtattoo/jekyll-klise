@@ -4,6 +4,8 @@ title: Issue 222 - 7 August 2020 (lego, forms, language, infographics)
 tags: lego forms language infographics
 date: 2020-08-07T18:27:41.534Z
 ---
+![25 Interesting Typography Infographics To Master The Letters](/assets/uploads/issue-222.jpg "25 Interesting Typography Infographics To Master The Letters")
+
 <a href="https://www.designmantic.com/blog/25-typography-infographics/" title="25 Interesting Typography Infographics To Master The Letters" alt="25 Interesting Typography Infographics To Master The Letters"  target="_blank">25 Interesting Typography Infographics To Master The Letters</a>
 
 <a href="https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/" title="The UX of LEGO Interface Panel" alt="The UX of LEGO Interface Panel"  target="_blank">The UX of LEGO Interface Panels</a>
