@@ -4,6 +4,8 @@ title: Issue 46 - 30 March 2017 (illustration, photography, podcasts, youtube)
 tags: illustration photography podcasts youtube
 date: 2017-03-30T11:08:22.301Z
 ---
+![Toma Vagner; a Russian born illustrator currently producing work from NYC](/assets/uploads/issue-46.png "Toma Vagner; a Russian born illustrator currently producing work from NYC")
+
 # Links of The Week ending 30 March 2017
 
 <a href="https://tomavagner.com/" target="_blank">Toma Vagner; a Russian born illustrator currently producing work from NYC</a>
