@@ -5,6 +5,8 @@ title: Issue 183 - 8 November 2019 (typeface, icons, svg, learnability, ui,
 tags: typeface icons svg learnability ui figma nintendo
 date: 2019-11-08T16:57:10.586Z
 ---
+![Universal Sans, a variable typeface system that lets you customise a sans serif typeface](/assets/uploads/issue-183.png "Universal Sans, a variable typeface system that lets you customise a sans serif typeface")
+
 # Links of The Week ending 8 November 2019
 
 <a href="https://universalsans.com" title="Universal Sans, a variable typeface system that lets you customise a sans serif typeface." alt="Universal Sans, a variable typeface system that lets you customise a sans serif typeface." target="_blank">Universal Sans, a variable typeface system that lets you customise a sans serif typeface.</a>
