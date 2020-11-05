@@ -4,6 +4,8 @@ title: Issue 61 - 14 July 2017 (nine inch nails, design pretty, oregon trail)
 tags: nine inch nails design pretty oregon trail
 date: 2017-07-14T11:27:23.652Z
 ---
+![The Oregon Trail](/assets/uploads/issue-61.png "The Oregon Trail")
+
 # Links of The Week ending 14 July 2017
 
 <a href="https://medium.com/the-philipendium/how-i-managed-to-design-the-most-successful-educational-computer-game-of-all-time-4626ea09e184" target="_blank">The Oregon Trail: How I Managed to Design the Most Successful Educational Computer Game of All Time</a> / <a href="https://www.amazon.com/gp/product/B01B8JMKMC/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=yewkneecom-20&linkId=64cb53c0d16dde1a8dcd7c18e1297dd4">Kindle Edition here</a>.
