@@ -2,7 +2,7 @@
 layout: post
 title: Issue 206 - 17 April 2020 (typography, rules, fonts, copy, art,
   rewriting, wordpress, seo)
-tags: typography fonts rewriting seo
+tags: typography fonts rewriting seo typewolf
 date: 2020-04-17T17:53:47.940Z
 ---
 ![Typewolf: The Fonts in Popular Things Identified Vol. 1](/assets/uploads/issue-206.jpg "Typewolf: The Fonts in Popular Things Identified Vol. 1")
