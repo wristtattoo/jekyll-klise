@@ -20,4 +20,4 @@ date: 2017-11-27T12:53:07.100Z
 
 <a href="https://chrome.google.com/webstore/detail/icon-search/bkijbakibakefmcoobcnfdkfhhbmgiek" target="_blank">Chrome Extension: Icon Search</a>
 
-<a href="https://twitter.com/DVSblast/status/933365116036370432/photo/1" target="_blank">only REAL 90s kids will remember THIS!!!!</a>"
+<a href="https://twitter.com/DVSblast/status/933365116036370432/photo/1" target="_blank">only REAL 90s kids will remember THIS!!!!</a>
