@@ -4,6 +4,8 @@ title: Issue 74 - 12 October 2017 (art, selling, 8-point grid, start-ups)
 tags: art selling 8-point grid start-ups
 date: 2017-10-12T11:45:59.017Z
 ---
+![Fake Fliers/Flyers](/assets/uploads/issue-74.jpg "Fake Fliers/Flyers")
+
 # Links of The Week ending 12 October 2017
 
 <a href="http://nathanielrussell.com/fake-fliers-1/" target="_blank">Fake Fliers/Flyers</a> etc
