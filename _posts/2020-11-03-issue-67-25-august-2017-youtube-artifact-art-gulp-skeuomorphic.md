@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Issue 67 - 25 August 2017 (youtube-artifact-art, gulp, skeuomorphic)
-tags: youtube-artifact-art gulp skeuomorphic
+tags: youtube art gulp skeuomorphic
 date: 2017-08-25T11:37:04.796Z
 ---
+![Youtube Artifact Art](/assets/uploads/issue-67.jpg "Youtube Artifact Art")
+
 # Links of The Week ending 25 August 2017
 
 <a href="https://twitter.com/youtubeartifact"  target="_blank">Youtube Artifact Art - birth of a new movement?</a> #youtubeartifact / 
