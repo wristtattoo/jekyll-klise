@@ -4,6 +4,8 @@ title: Issue 217 - 3 July 2020 (ui, design, seo, ahrefs, typography)
 tags: ui design seo typography 90s
 date: 2020-07-03T18:20:11.483Z
 ---
+![Menus, Metaphors and Materials: Milestones of User Interface Design](/assets/uploads/issue-217.png "Menus, Metaphors and Materials: Milestones of User Interface Design")
+
 # Links of The Week ending 3 July 2020
 
 <a href="https://medium.com/@borism/menus-metaphors-and-materials-milestones-of-user-interface-design-f3f75481c46c" title="Menus, Metaphors and Materials: Milestones of User Interface Design" alt="Menus, Metaphors and Materials: Milestones of User Interface Design" target="_blank">Menus, Metaphors and Materials: Milestones of User Interface Design</a>
