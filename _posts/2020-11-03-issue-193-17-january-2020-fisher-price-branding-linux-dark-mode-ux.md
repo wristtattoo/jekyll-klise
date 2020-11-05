@@ -4,6 +4,8 @@ title: Issue 193 - 17 January 2020 (fisher price, branding, linux, dark mode ux)
 tags: branding linux dark mode ux
 date: 2020-01-17T17:08:26.516Z
 ---
+![Pentagram rebrands Fisher-Price to convey fun, play and silliness](/assets/uploads/issue-193.jpg "Pentagram rebrands Fisher-Price to convey fun, play and silliness")
+
 # Links of The Week ending 17 January 2020
 
 <a href="https://www.pentagram.com/work/fisher-price/story" title="Pentagram rebrands Fisher-Price to convey fun, play and silliness" alt="Pentagram rebrands Fisher-Price to convey fun, play and silliness" target="_blank">Pentagram rebrands Fisher-Price to convey fun, play and silliness</a>
