@@ -4,6 +4,8 @@ title: Issue 177 - 4 October 2019 (yahoo!, designers, copyright)
 tags: yahoo! designers copyright
 date: 2019-10-04T15:49:09.307Z
 ---
+![Yahoo! rebrand](/assets/uploads/issue-177.png "Yahoo! rebrand")
+
 # Links of The Week ending 4 October
 
 <a title="Yahoo!" href="https://www.itsnicethat.com/news/michael-bierut-pentagram-yahoo-rebrand-graphic-design-240919" target="_blank">Yahoo! rebrand</a>
