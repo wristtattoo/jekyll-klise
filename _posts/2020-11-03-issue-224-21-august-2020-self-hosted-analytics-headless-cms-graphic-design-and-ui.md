@@ -5,6 +5,8 @@ title: Issue 224 - 21 August 2020 (self-hosted analytics, headless, cms, graphic
 tags: analytics headless cms ui
 date: 2020-08-21T18:30:02.797Z
 ---
+![Umami](/assets/uploads/issue-224.png "Umami")
+
 # Links of The Week ending 21 August 2020
 
 <a href="https://www.producthunt.com/posts/umami" title="Umami" alt="Umami" target="_blank">Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions.</a>
