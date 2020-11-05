@@ -4,6 +4,8 @@ title: Issue 190 - 27 December 2019 (neumorphism and the best of 2019)
 tags: neumorphism
 date: 2019-12-27T17:05:22.625Z
 ---
+![The halfway hack: Neumorphism in user interfaces](/assets/uploads/issue-190.jpg "The halfway hack: Neumorphism in user interfaces")
+
 # Links of The Week ending 27 December 2020
 
 <a href="https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6" title="The halfway hack: Neumorphism in user interfaces" alt="The halfway hack: Neumorphism in user interfaces" target="_blank">The halfway hack: Neumorphism in user interfaces</a>
