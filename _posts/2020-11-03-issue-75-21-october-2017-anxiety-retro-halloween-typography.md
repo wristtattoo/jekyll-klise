@@ -4,6 +4,8 @@ title: Issue 75 - 21 October 2017 (anxiety, retro halloween, typography)
 tags: anxiety retro halloween typography
 date: 2017-10-21T11:47:45.602Z
 ---
+![Design in the Age of Anxiety](/assets/uploads/issue-75.png "Design in the Age of Anxiety")
+
 # Links of The Week ending 21 October 2017
 
 <a href="https://medium.com/mule-design/design-in-the-age-of-anxiety-7a26f52d7aa1" target="_blank">Design in the Age of Anxiety</a>
