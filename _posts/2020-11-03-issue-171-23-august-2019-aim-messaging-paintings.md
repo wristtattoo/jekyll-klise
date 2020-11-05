@@ -4,6 +4,8 @@ title: Issue 171 - 23 August 2019 (aim, messaging, paintings)
 tags: aim messaging paintings
 date: 2019-08-23T15:41:38.709Z
 ---
+![An oral history of the AIM away message](/assets/uploads/issue-171.png "An oral history of the AIM away message")
+
 # Links of The Week ending 23 August 2019
 
 <a href="https://www.invisionapp.com/inside-design/an-oral-history-of-the-aim-away-message-by-the-people-who-were-there/" title="An oral history of the AIM away message (by the people who were there) - Design article" alt="An oral history of the AIM away message (by the people who were there) - Design article" target="_blank">An oral history of the AIM away message (by the people who were there) - Design article</a>
