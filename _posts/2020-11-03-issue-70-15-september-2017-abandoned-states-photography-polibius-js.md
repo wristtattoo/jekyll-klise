@@ -4,6 +4,8 @@ title: Issue 70 - 15 September 2017 (abandoned states, photography, polibius, js
 tags: abandoned states photography polibius js
 date: 2017-09-15T11:41:07.793Z
 ---
+![Abandoned States (Photography)](/assets/uploads/issue-70.jpg "Abandoned States (Photography)")
+
 # Links of The Week ending 15 September 2017
 
 <a href="http://dcist.com/2017/08/abandoned_postcards_poconos_catskills_animations.php" target="_blank">Abandoned States (Photography)</a>
