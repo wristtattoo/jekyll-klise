@@ -5,6 +5,8 @@ title: Issue 82 - 9 December 2017 (typography, album art reimagined,
 tags: typography album art reimagined nano-interactions
 date: 2017-12-09T13:04:14.820Z
 ---
+![Typography is everywhere. You have a lot to learn about Typography.](/assets/uploads/issue-82.png "Typography is everywhere. You have a lot to learn about Typography.")
+
 # Links of The Week ending 9 December 2017
 
 <a href="https://blog.theleagueofmoveabletype.com/learning-typography-9793c308ab52" target="_blank">Typography is everywhere. You have a lot to learn about Typography.</a>
