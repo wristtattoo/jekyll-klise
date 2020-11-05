@@ -4,6 +4,8 @@ title: Issue 213 - 5 June 2020 (typography, micro-typography, ux)
 tags: typography ux
 date: 2020-06-05T18:14:57.145Z
 ---
+![Typographic Doubletakes](/assets/uploads/issue-213.svg "Typographic Doubletakes")
+
 # Links of The Week ending 5 June 2020
 
 <a href="https://www.typography.com/blog/typographic-doubletakes" title="Typographic Doubletakes" alt="Typographic Doubletakes" target="_blank">Typographic Doubletakes</a>
@@ -16,6 +18,6 @@ date: 2020-06-05T18:14:57.145Z
 
 <a href="https://uxdesign.cc/little-ux-crimes-a-collection-of-dark-patterns-in-design-7783b75195e0" title="Little UX crimes: a collection of Dark Patterns in design" alt="Little UX crimes: a collection of Dark Patterns in design" target="_blank">Little UX crimes: a collection of Dark Patterns in design</a>
 
-_and_...
+*and*...
 
 <a href="https://jazzkeys.plan8.co/" title="Jazz Keys" alt="Jazz Keys" target="_blank">Jazz Keys - Jazz Piano as you type</a>
