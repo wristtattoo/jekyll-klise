@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 151 6 April 2019 (pigcasso, hyperbolic, diabolic)
+title: Issue 151 - 6 April 2019 (pigcasso, hyperbolic, diabolic)
 tags: pigcasso hyperbolic diabolic
 date: 2019-04-06T14:36:09.023Z
 ---
+![Pigcasso](/assets/uploads/issue-151.png "Pigcasso")
+
 # Links of The Week ending 6 April 2019
 
 <a href="https://www.instagram.com/pigcassohoghero" target="_blank">Rescued from the slaughterhouse, Pigcasso is painting a better picture for pig-kind through showcasing her incredible artistic talent to mankind!</a>
