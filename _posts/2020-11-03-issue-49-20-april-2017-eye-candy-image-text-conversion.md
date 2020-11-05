@@ -4,6 +4,8 @@ title: Issue 49 - 20 April 2017 (eye candy, image-text conversion)
 tags: eye candy image-text conversion
 date: 2017-04-20T11:11:54.617Z
 ---
+![When UFC Glitches](/assets/uploads/issue-49.png "When UFC Glitches")
+
 # Links of The Week ending 20 April 2017
 
 When UFC Glitches - <a href="https://www.youtube.com/watch?v=FWC3klunQBs" target="_blank">https://www.youtube.com/watch?v=FWC3klunQBs</a> - but <a href="https://media.giphy.com/media/xUA7aLMX0j1RNO2xEs/giphy.gif">this one</a> in particular - all SFW
