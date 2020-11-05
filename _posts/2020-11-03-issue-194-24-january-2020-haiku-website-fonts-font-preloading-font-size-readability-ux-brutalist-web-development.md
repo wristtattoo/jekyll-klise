@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Issue 194 - 24 January 2020 (haiku, website, fonts, font preloading,
-  font-size, readability, ux, brutalist web development)
+title: Issue 194 - 24 January 2020 (haiku, website, fonts, font preloading)
 tags: haiku website fonts font-size readability ux brutalist web development
 date: 2020-01-24T17:09:49.402Z
 ---
+![OpenStreetMap Haiku:Using OSM and Overpass for generative poetry](/assets/uploads/issue-194.png "OpenStreetMap Haiku:Using OSM and Overpass for generative poetry")
+
 # Links of The Week ending 24 January 2020
 
 <a href="https://satellitestud.io/blog/post/openstreetmap-haiku/" title="OpenStreetMap Haiku:Using OSM and Overpassfor generative poetry" alt="OpenStreetMap Haiku:Using OSM and Overpassfor generative poetry" target="_blank">OpenStreetMap Haiku:Using OSM and Overpassfor generative poetry</a> ☁️
