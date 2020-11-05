@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 154 26 April 2019 (helvetica® now, eye tracking, relaxing, colours)
+title: Issue 154 - 26 April 2019 (helvetica® now, eye tracking, relaxing, colours)
 tags: helvetica eye tracking relaxing,colours
 date: 2019-04-26T14:39:42.247Z
 ---
+![Helvetica® Now - And it's 21st century facelift](/assets/uploads/issue-154.png "Helvetica® Now - And it's 21st century facelift")
+
 # Links of The Week ending 26 April 2019
 
 <a href="https://www.monotype.com/fonts/helvetica-now/" target="_blank">Helvetica® Now - And it's 21st century facelift</a>
