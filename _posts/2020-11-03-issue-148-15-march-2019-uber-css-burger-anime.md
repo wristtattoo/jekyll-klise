@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 148 15 March 2019 (uber, css, burger, anime)
+title: Issue 148 - 15 March 2019 (uber, css, burger, anime)
 tags: uber css burger anime
 date: 2019-03-15T15:33:26.687Z
 ---
+![Upgrading Uber’s 3D fleet](/assets/uploads/issue-148.png "Upgrading Uber’s 3D fleet")
+
 # Links of The Week ending 15 March 2019
 
 <a title="Upgrading Uber’s 3D fleet" href="https://medium.com/uber-design/upgrading-ubers-3d-fleet-4662c3e1081"  target="_blank">Upgrading Uber’s 3D fleet</a>
