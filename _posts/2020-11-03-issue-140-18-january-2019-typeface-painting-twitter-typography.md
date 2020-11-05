@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 140 18 January 2019 (typeface, painting, twitter, typography)
+title: Issue 140 - 18 January 2019 (typeface, painting, twitter, typography)
 tags: typeface painting twitter typography
 date: 2019-01-18T15:20:03.118Z
 ---
+![Marvin Visions is a modern and consistent reinterpretation of Marvin, a typeface originally designed by Michael Chave in 1969](/assets/uploads/issue-140.png "Marvin Visions is a modern and consistent reinterpretation of Marvin, a typeface originally designed by Michael Chave in 1969")
+
 # Links of The Week ending 18 January 2019
 
 <a href="https://www.readvisions.com/marvin?" title="Marvin Visions is a modern and consistent reinterpretation of Marvin, a typeface originally designed by Michael Chave in 1969" alt="Marvin Visions is a modern and consistent reinterpretation of Marvin, a typeface originally designed by Michael Chave in 1969" target="_blank">Marvin Visions is a modern and consistent reinterpretation of Marvin, a typeface originally designed by Michael Chave in 1969</a>
