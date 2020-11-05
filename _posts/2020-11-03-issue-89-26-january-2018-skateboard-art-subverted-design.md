@@ -4,6 +4,8 @@ title: Issue 89 - 26 January 2018 (skateboard, art, subverted design)
 tags: skateboard art subverted design
 date: 2018-01-26T13:14:39.727Z
 ---
+![The Skate Art of ModernCholo](/assets/uploads/issue-89.png "The Skate Art of ModernCholo")
+
 # Links of The Week ending 26 January 2018
 
 <a href="http://www.thrashermagazine.com/articles/character-study-skate-art-of-moderncholo/" target="_blank">The Skate Art of ModernCholo</a>
