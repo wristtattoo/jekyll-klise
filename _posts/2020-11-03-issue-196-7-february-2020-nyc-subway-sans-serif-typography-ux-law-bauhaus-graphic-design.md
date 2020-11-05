@@ -5,6 +5,8 @@ title: Issue 196 - 7 February 2020 (nyc subway, sans-serif, typography, ux-law,
 tags: nyc subway sans-serif typography ux-law bauhaus graphic design
 date: 2020-02-07T17:13:36.495Z
 ---
+![A Modern Sans-serif Infused With the Spirit of the NYC Subway](/assets/uploads/issue-196.png "A Modern Sans-serif Infused With the Spirit of the NYC Subway")
+
 # Links of The Week ending 7 February 2020
 
 <a href="https://eyeondesign.aiga.org/a-modern-sans-serif-infused-with-the-spirit-of-the-nyc-subway/" title="A Modern Sans-serif Infused With the Spirit of the NYC Subway" alt="A Modern Sans-serif Infused With the Spirit of the NYC Subway">A Modern Sans-serif Infused With the Spirit of the NYC Subway</a>
