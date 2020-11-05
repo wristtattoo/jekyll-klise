@@ -5,6 +5,8 @@ title: Issue 208 - 1 May 2020 (times, new, arial, typography, fonts, hicks, law,
 tags: typography fonts ux ghibli beastie boys
 date: 2020-05-01T18:05:52.620Z
 ---
+![Times New Arial mutates familiar fonts into something wholly new](/assets/uploads/issue-208.jpg "Times New Arial mutates familiar fonts into something wholly new")
+
 # Links of The Week ending 1 May 2020
 
 <a href="https://www.inputmag.com/design/times-new-arial-mutates-familiar-fonts-into-something-wholly-new-typeface" title="Times New Arial mutates familiar fonts into something wholly new" alt="Times New Arial mutates familiar fonts into something wholly new" target="_blank">Times New Arial mutates familiar fonts into something wholly new</a>
