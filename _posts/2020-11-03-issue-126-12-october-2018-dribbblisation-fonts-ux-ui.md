@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 126 12 October 2018 (dribbblisation, fonts, ux, ui)
+title: Issue 126 - 12 October 2018 (dribbblisation, fonts, ux, ui)
 tags: dribbblisation fonts ux ui
 date: 2018-10-12T13:39:51.529Z
 ---
+![Coolors.co](/assets/uploads/issue-126.png "Coolors.co")
+
 # Links of The Week ending 12 October 2018
 
 <a href="https://www.intercom.com/blog/the-dribbblisation-of-design/" target="_blank">The dribbblisation of design (Things that look great but don’t work well) | Article</a>
