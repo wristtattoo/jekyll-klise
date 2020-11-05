@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 130 9 November 2018 (punctuation, garfield, gameboy, typography)
+title: Issue 130 - 9 November 2018 (punctuation, garfield, gameboy, typography)
 tags: punctuation garfield gameboy typography
 date: 2018-11-09T14:57:01.882Z
 ---
+![A collection of non-standard punctuation marks we should be using today](/assets/uploads/issue-130.jpg "A collection of non-standard punctuation marks we should be using today")
+
 # Links of The Week ending 9 November 2018
 
 <a href="http://progressivepunctuation.com/" title="A collection of non-standard punctuation marks we should be using today" alt="A collection of non-standard punctuation marks we should be using today" target="_blank">A collection of non-standard punctuation marks we should be using today</a>
