@@ -4,6 +4,8 @@ title: Issue 211 - 22 May 2020 (a-b, testing, npm, yarn, seo, typography, sopran
 tags: a-b testing seo typography sopranos
 date: 2020-05-22T18:10:41.676Z
 ---
+![You've probably been writing the letter 'g' wrong for years](/assets/uploads/issue-211.png "You've probably been writing the letter 'g' wrong for years")
+
 # Links of The Week ending 22 May 2020
 
 <a href="https://www.creativebloq.com/news/how-to-write-the-letter-g" title="You've probably been writing the letter 'g' wrong for years" alt="You've probably been writing the letter 'g' wrong for years" target="_blank">You've probably been writing the letter 'g' wrong for years</a>
@@ -22,6 +24,6 @@ date: 2020-05-22T18:10:41.676Z
 
 <a href="" title="" alt=""></a>
 
-_and_...
+*and*...
 
 <a href="https://theplaylist.net/sopranos-david-chase-pandemic-scene-20200508/" title="Tony Soprano Returns In A New ‘Sopranos’ Scene Written By David Chase & Set During The Pandemic" alt="Tony Soprano Returns In A New ‘Sopranos’ Scene Written By David Chase & Set During The Pandemic" target="_blank">Tony Soprano Returns In A New ‘Sopranos’ Scene Written By David Chase & Set During The Pandemic</a>
