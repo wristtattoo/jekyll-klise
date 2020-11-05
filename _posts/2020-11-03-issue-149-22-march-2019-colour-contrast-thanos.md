@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 149 22 March 2019 (colour, contrast, thanos)
+title: Issue 149 - 22 March 2019 (colour, contrast, thanos)
 tags: colour contrast thanos
 date: 2019-03-22T15:34:40.838Z
 ---
+![Amazing tool to test color contrast and educate on accessibility guidelines](/assets/uploads/issue-149.png "Amazing tool to test color contrast and educate on accessibility guidelines")
+
 # Links of The Week ending 22 March 2019
 
 <a href="https://color.review/" title="Amazing tool to test color contrast and educate on accessibility guidelines" alt="Amazing tool to test color contrast and educate on accessibility guidelines" target="_blank">Amazing tool to test color contrast and educate on accessibility guidelines.</a>
