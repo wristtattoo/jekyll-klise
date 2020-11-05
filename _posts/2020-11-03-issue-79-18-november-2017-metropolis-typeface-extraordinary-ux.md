@@ -4,6 +4,8 @@ title: Issue 79 - 18 November 2017 (metropolis typeface, extraordinary ux)
 tags: metropolis typeface extraordinary ux
 date: 2017-11-18T12:52:08.095Z
 ---
+![Matthew Feyld | Hunted Projects](/assets/uploads/issue-79.jpg "Matthew Feyld | Hunted Projects")
+
 # Links of The Week ending 18 November 2017
 
 <a href="http://www.huntedprojects.com/matthewfeyld" target="_blank">Matthew Feyld | Hunted Projects</a>
