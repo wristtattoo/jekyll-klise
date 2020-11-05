@@ -4,6 +4,8 @@ title: Issue 207 - 24 April 2020 (typography, graphics, design, office, scranton
 tags: typography office scranton
 date: 2020-04-24T18:03:05.687Z
 ---
+![Delrosso Francesco - Graphic Designer](/assets/uploads/issue-207.png "Delrosso Francesco - Graphic Designer")
+
 # Links of The Week ending 24 April 2020
 
 <a href="https://www.instagram.com/delrosso_francesco/" title="Delrosso Francesco - Graphic Designer" alt="Delrosso Francesco - Graphic Designer" target="_blank">Delrosso Francesco - Graphic Designer</a>
