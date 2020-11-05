@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 134 8 December 2018 (blurry, eye, test, loading)
+title: Issue 134 - 8 December 2018 (blurry, eye, test, loading)
 tags: blurry eye test loading
 date: 2018-12-08T15:04:13.853Z
 ---
+![Optician Sans](/assets/uploads/issue-134.png "Optician Sans")
+
 # Links of The Week ending 8 December 2018
 
 <a href="https://uxdesign.cc/the-blurry-eye-test-1bd12bc6c3f8" title="The UX Blurry-eye Test" alt="The UX Blurry-eye Test" target="_blank">The UX Blurry-eye Test</a>
