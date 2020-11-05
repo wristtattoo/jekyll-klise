@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Issue 174 - 13 September 2019 (zfrag, notifications, typefaces)
-tags: notifications typefaces
+tags: notifications typefaces zFRAG
 date: 2019-09-13T15:45:19.220Z
 ---
+![zFRAG](/assets/uploads/issue-174.png "zFRAG")
+
 # Links of The Week ending 13 September 2019
 
 <a href="https://losttraindude.itch.io/zfrag" title="zFRAG" alt="zFRAG" target="_blank">zFRAG - Defrag your mind by manually defragging a virtual Hard Disk, sector by sector, or enable the AUTODEFRAG to sit back and watch it do it on its own!</a>
