@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 136 21 December 2018 (remove, bg, fakespot, ux)
+title: Issue 136 - 21 December 2018 (remove, bg, fakespot, ux)
 tags: bg fakespot ux
 date: 2018-12-21T15:07:30.124Z
 ---
+![A UX Guide For Designing Error Pages](/assets/uploads/issue-136.png "A UX Guide For Designing Error Pages")
+
 # Links of The Week ending 21 December 2018
 
 <a href="https://www.remove.bg/" title="Remove Image Backgrounds in 5 seconds with remove.bg" target="_blank">Remove Image Backgrounds in 5 seconds with remove.bg</a>
