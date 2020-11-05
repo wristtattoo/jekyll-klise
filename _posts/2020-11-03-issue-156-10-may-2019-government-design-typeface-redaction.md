@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 156 10 May 2019 (government design, typeface, redaction)
+title: Issue 156 - 10 May 2019 (government design, typeface, redaction)
 tags: government design typeface redaction
 date: 2019-05-10T14:41:43.196Z
 ---
+![4 surprisingly great examples of government design](/assets/uploads/issue-156.jpg "4 surprisingly great examples of government design")
+
 # Links of The Week ending 10 May 2019
 
 <a href="http://www.invisionapp.com/inside-design/examples-government-design/" target="_blank" title="4 surprisingly great examples of government design
