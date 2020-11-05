@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 152 12 April 2019 (typography, font, metrics)
+title: Issue 152 - 12 April 2019 (typography, font, metrics)
 tags: typography font metrics
 date: 2019-04-12T14:37:01.086Z
 ---
+![Interactive Typography Cheatsheet](/assets/uploads/issue-152.png "Interactive Typography Cheatsheet")
+
 # Links of The Week ending 12 April 2019
 
 <a href="https://codepo8.github.io/typography-cheatsheet/" title="Interactive Typography Cheatsheet" alt="Interactive Typography Cheatsheet" target="_blank">Interactive Typography Cheatsheet</a>
