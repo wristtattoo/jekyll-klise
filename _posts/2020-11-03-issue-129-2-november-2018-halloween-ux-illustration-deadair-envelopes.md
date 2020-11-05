@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 129 2 November 2018 (halloween, ux, illustration, deadair, envelopes)
+title: Issue 129 - 2 November 2018 (halloween, ux, illustration, deadair, envelopes)
 tags: halloween, ux, illustration, deadair, envelopes
 date: 2018-11-02T14:55:27.760Z
 ---
+![Halloween design thinking for grumpy children (User Experience Design)](/assets/uploads/issue-129.png "Halloween design thinking for grumpy children (User Experience Design)")
+
 # Links of The Week ending 26 October 2018
 
 <a href="https://www.invisionapp.com/inside-design/halloween-design-thinking" alt="Halloween design thinking for grumpy children (User Experience Design)" target="_blank">Halloween design thinking for grumpy children (User Experience Design)</a>
