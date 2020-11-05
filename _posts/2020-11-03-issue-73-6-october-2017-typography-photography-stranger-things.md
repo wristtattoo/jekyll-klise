@@ -4,6 +4,8 @@ title: Issue 73 - 6 October 2017 (typography, photography, stranger things)
 tags: typography photography stranger things
 date: 2017-10-06T11:44:23.555Z
 ---
+![Typography that Sacred Cow](/assets/uploads/issue-73.jpg "Typography that Sacred Cow")
+
 # Links of The Week ending 6 October 2017
 
 <a href="https://medium.muz.li/typography-that-sacred-cow-ea7a5909ca70" target="_blank">Typography that Sacred Cow</a>
