@@ -4,6 +4,8 @@ title: Issue 81 - 1 December 2017 (skeuomorphic, ui, bored)
 tags: skeuomorphic ui bored
 date: 2017-12-01T12:54:56.737Z
 ---
+![Skeuomorphic Design](/assets/uploads/issue-81.png "Skeuomorphic Design")
+
 # Links of The Week ending 1 December 2017
 
 <a href="https://medium.muz.li/skeuomorphic-design-a-controversial-ux-approach-that-is-making-a-comeback-a0b6e93eb4bb" target="_blank">Skeuomorphic Design — A controversial UX approach that is making a comeback</a>
