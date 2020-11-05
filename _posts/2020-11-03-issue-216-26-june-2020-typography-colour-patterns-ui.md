@@ -4,6 +4,8 @@ title: Issue 216 - 26 June 2020 (typography, colour, patterns, ui)
 tags: typography colour patterns ui
 date: 2020-06-26T18:19:13.023Z
 ---
+![The Q Project, an open-ended typographic play system](/assets/uploads/issue-216.gif "The Q Project, an open-ended typographic play system")
+
 # Links of The Week ending 26 June 2020
 
 <a href="https://www.typotheque.com/blog/the_q_project_an_open-ended_typographic_play_system" title="The Q Project, an open-ended typographic play system" alt="The Q Project, an open-ended typographic play system" target="_blank">The Q Project, an open-ended typographic play system</a>
