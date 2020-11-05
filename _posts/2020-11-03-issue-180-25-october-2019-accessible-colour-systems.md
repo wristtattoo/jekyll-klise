@@ -4,6 +4,8 @@ title: Issue 180 - 25 October 2019 (accessible, colour, systems)
 tags: accessible colour systems
 date: 2019-10-25T15:52:01.734Z
 ---
+![Designing accessible color systems](/assets/uploads/issue-180.png "Designing accessible color systems")
+
 # Links of The Week ending 25 October 2019
 
 <a href="https://stripe.com/gb/blog/accessible-color-systems" target="_blank">Designing accessible color systems</a>
