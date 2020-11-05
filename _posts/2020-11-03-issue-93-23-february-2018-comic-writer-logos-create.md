@@ -4,6 +4,8 @@ title: Issue 93 - 23 February 2018 (comic writer, logos, create!)
 tags: comic writer logos
 date: 2018-02-23T13:19:35.412Z
 ---
+![Steve Seeley Artist, comic writer and toy nerd based in Chicago](/assets/uploads/issue-93.png "Steve Seeley Artist, comic writer and toy nerd based in Chicago")
+
 # Links of The Week ending 23 February 2018
 
 <a href="https://www.instagram.com/steveseeleyart/" target="_blank">Steve Seeley Artist, comic writer and toy nerd based in Chicago</a>
@@ -18,4 +20,4 @@ date: 2018-02-23T13:19:35.412Z
 
 <a href="https://youtu.be/GqZwfA64h1A" target="_blank">Logos are overrated (YouTube)</a> 
 
-<a href="https://medium.com/personal-growth/dont-compete-create-3091f41870b5" target="_blank">Don’t Compete. Create!</a>"	
+<a href="https://medium.com/personal-growth/dont-compete-create-3091f41870b5" target="_blank">Don’t Compete. Create!</a>"
