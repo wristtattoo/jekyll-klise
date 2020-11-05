@@ -4,6 +4,8 @@ title: Issue 195 - 31 January 2020 (jazz, graphic, design, ux, ui, cx, 1989, fon
 tags: jazz graphic design ux ui cx 1989 fonts
 date: 2020-01-31T17:10:57.841Z
 ---
+![What UX from 1989 can teach us](/assets/uploads/issue-195.jpg "What UX from 1989 can teach us")
+
 # Links of The Week ending 31 January 2020
 
 <a href="https://uxdesign.cc/what-ux-from-1989-can-teach-us-22476ac5703c" title="What UX from 1989 can teach us" alt="What UX from 1989 can teach us">What UX from 1989 can teach us</a>
