@@ -4,6 +4,8 @@ title: Issue 186 - 29 November 2019 (bladerunner, typography, ai stock photos)
 tags: bladerunner typography ai stock photos
 date: 2019-11-29T16:59:57.849Z
 ---
+![A rabbit hole dive into Blade Runner typography](/assets/uploads/issue-186.jpg "A rabbit hole dive into Blade Runner typography")
+
 # Links of The Week ending 29 November 2020
 
 <a href="https://typesetinthefuture.com/2016/06/19/bladerunner/" title="A rabbit hole dive into Blade Runner typography" alt="A rabbit hole dive into Blade Runner typography" target="_blank">A rabbit hole dive into Blade Runner typography</a>
