@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 153 19 April 2019 (typography, font, metrics)
+title: Issue 153 - 19 April 2019 (typography, font, metrics)
 tags: typography font metrics
 date: 2019-04-19T14:38:34.558Z
 ---
+![Intro to Font Metrics](/assets/uploads/issue-153.png "Intro to Font Metrics")
+
 # Links of The Week ending 19 April 2019
 
 <a href="http://westonthayer.com/writing/intro-to-font-metrics" target="_blank">Intro to Font Metrics</a>
