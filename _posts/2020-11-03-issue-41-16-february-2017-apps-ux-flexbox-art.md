@@ -4,6 +4,8 @@ title: Issue 41 - 16 February 2017 (apps, ux, flexbox, art)
 tags: apps ux flexbox art
 date: 2017-02-16T11:59:29.459Z
 ---
+![Glitchskier](/assets/uploads/issue-41.png "Glitchskier")
+
 # Links of The Week ending 16 February 2017
 
 <a href="http://www.glitchskier.com" target="_blank">Glitchskier - It's like flying a Asteroids style ship through a hex editor</a>
