@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 162 21 June 2019 (beautiful, web, type)
+title: Issue 162 - 21 June 2019 (beautiful, web, type)
 tags: beautiful web type
 date: 2019-06-21T14:49:45.737Z
 ---
+![The 4px baseline grid](/assets/uploads/issue-162.png "The 4px baseline grid")
+
 # Links of The Week ending 21 June 2019
 
 <a href="https://beautifulwebtype.com" target="_blank">In-Depth Guide to the Best Free Fonts • Beautiful Web Type</a>
