@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Issue 172 - 30 August 2019 (self-esteem, anxiety, working)
-tags: self-esteem, anxiety, working
+tags: self-esteem anxiety working graduation
 date: 2019-08-30T15:42:35.895Z
 ---
+![How to deal with low self-esteem, anxiety and depression after graduation](/assets/uploads/issue-172.png "How to deal with low self-esteem, anxiety and depression after graduation")
+
 # Links of The Week ending 30 August 2019
 
 <a href="https://lectureinprogress.com/journal/graduate-depression" title="lectureinprogress.com How to deal with low self-esteem, anxiety and depression after graduation" alt="lectureinprogress.com How to deal with low self-esteem, anxiety and depression after graduation">lectureinprogress.com How to deal with low self-esteem, anxiety and depression after graduation</a>
