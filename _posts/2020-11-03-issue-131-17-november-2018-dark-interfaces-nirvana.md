@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 131 17 November 2018 (dark, interfaces, nirvana)
+title: Issue 131 - 17 November 2018 (dark, interfaces, nirvana)
 tags: dark interfaces nirvana
 date: 2018-11-17T14:58:04.983Z
 ---
+![Three Feet From God: An Oral History of Nirvana ‘Unplugged’](/assets/uploads/issue-131.jpg "Three Feet From God: An Oral History of Nirvana ‘Unplugged’")
+
 # Links of The Week ending 17 November 2018
 
 <a href="https://uxdesign.cc/in-the-dead-of-night-a4c7fa98aec4" target="_blank">Why we are drawn to dark interfaces</a>
