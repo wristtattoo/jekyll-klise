@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 161 14 June 2019 (dave, arcade, illustrator, design)
+title: Issue 161 - 14 June 2019 (dave, arcade, illustrator, design)
 tags: arcade illustrator design
 date: 2019-06-19T14:48:35.628Z
 ---
+![Illustrator - Dave Arcade](/assets/uploads/issue-161.png "Illustrator - Dave Arcade")
+
 # Links of The Week ending 14 June 2019
 
 <a title="Illustrator - Dave Arcade" target="_blank" href="https://www.behance.net/davearcade">Illustrator Dave Arcade</a>
