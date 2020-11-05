@@ -4,6 +4,8 @@ title: Issue 77 - 3 November 2017 (emoji poop, branding, ar)
 tags: emoji poop branding ar
 date: 2017-11-03T12:50:14.809Z
 ---
+![Soul of a Giant](/assets/uploads/issue-77.jpg "Soul of a Giant")
+
 # Links of The Week ending 3 November 2017
 
 <a href="https://www.buzzfeed.com/charliewarzel/inside-the-great-poop-emoji-feud" target="_blank">Inside The Great Poop Emoji Feud</a>
