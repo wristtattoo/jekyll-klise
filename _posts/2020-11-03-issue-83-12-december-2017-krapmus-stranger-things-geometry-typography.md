@@ -4,6 +4,8 @@ title: Issue 83 - 12 December 2017 (krapmus, stranger things, geometry, typograp
 tags: krapmus stranger things geometry typography
 date: 2017-12-12T13:05:57.959Z
 ---
+![The Typography of ‘Stranger Things’](/assets/uploads/issue-83.jpg "The Typography of ‘Stranger Things’")
+
 # Links of The Week ending 12 December 2017
 
 <a href="https://typeinspire.com/geometry-not-opinion/" target="_blank">Geometry is not an Opinion</a>
