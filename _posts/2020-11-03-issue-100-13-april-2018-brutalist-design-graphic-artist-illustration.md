@@ -4,6 +4,8 @@ title: Issue 100 - 13 April 2018 (brutalist design, graphic artist, illustration
 tags: brutalist design graphic artist illustration
 date: 2018-04-13T12:47:56.514Z
 ---
+![100th lucky 13 issue](/assets/uploads/issue-100.jpg "100th lucky 13 issue")
+
 # Links of The Week ending 13 April 2018
 
 <a href="https://www.tumblr.com/tagged/13-tattoo" target="_blank">100th lucky 13 issue</a> / 
