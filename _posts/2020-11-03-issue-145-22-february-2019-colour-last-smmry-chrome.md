@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 145 22 February 2019 (colour, last, smmry, chrome)
+title: Issue 145 - 22 February 2019 (colour, last, smmry, chrome)
 tags: colour last smmry chrome
 date: 2019-02-22T15:26:29.543Z
 ---
+![SMMRY](/assets/uploads/issue-145.png "SMMRY")
+
 # Links of The Week ending 22 February 2019
 
 <a href="https://medium.com/devsdesign/4-reasons-why-you-should-design-without-color-first-c0e38180f689" title="4 Reasons Why You Should Design Without Color First" alt="4 Reasons Why You Should Design Without Color First" target="_blank">4 Reasons Why You Should Design Without Color First</a>
