@@ -4,6 +4,8 @@ title: Issue 84 - 23 December 2017 (more krampus, nintendo, illustration, mjml)
 tags: more krampus nintendo illustration mjml
 date: 2017-12-23T13:07:19.446Z
 ---
+![Since it's Christmas 2017, here is an educational post on Krampus](/assets/uploads/issue-84.png "Since it's Christmas 2017, here is an educational post on Krampus")
+
 # Links of The Week ending 23 December 2017
 
 <a href="https://imgur.com/a/4GRzC" target="_blank">Since it's Christmas 2017, here is an educational post on Krampus</a>
