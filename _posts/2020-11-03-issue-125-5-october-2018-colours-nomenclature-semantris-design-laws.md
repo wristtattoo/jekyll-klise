@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 125 5 October 2018 (colours, nomenclature, semantris, design, laws)
+title: Issue 125 - 5 October 2018 (colours, nomenclature, semantris, design, laws)
 tags: colours nomenclature semantris design laws
 date: 2018-10-05T13:37:05.617Z
 ---
+![Werner’s Nomenclature of Colours](/assets/uploads/issue-125.jpg "Werner’s Nomenclature of Colours")
+
 # Links of The Week ending 5 October 2018
 
 <a href="https://www.c82.net/" target="_blank" title="Werner’s Nomenclature of Colours. A recreation of the original 1821 color guidebook with new cross references." alt="Werner’s Nomenclature of Colours. A recreation of the original 1821 color guidebook with new cross references.">Werner’s Nomenclature of Colours. A recreation of the original 1821 color guidebook with new cross references.</a>
