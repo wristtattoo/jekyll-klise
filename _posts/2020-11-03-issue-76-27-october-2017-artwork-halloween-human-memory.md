@@ -4,6 +4,8 @@ title: Issue 76 - 27 October 2017 (artwork, halloween, human memory)
 tags: artwork halloween human memory
 date: 2017-10-27T11:49:14.154Z
 ---
+![Stefan Draschan Artwork Matching](/assets/uploads/issue-76.jpg "Stefan Draschan Artwork Matching")
+
 # Links of The Week ending 27 October 2017
 
 <a href="https://peoplematchingartworks.tumblr.com/post/163798146065" target="_blank">Stefan Draschan Artwork Matching</a>
