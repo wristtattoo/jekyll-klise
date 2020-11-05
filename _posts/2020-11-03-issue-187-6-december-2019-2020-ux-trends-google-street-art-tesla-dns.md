@@ -4,6 +4,8 @@ title: Issue 187 - 6 December 2019 (2020, UX, trends, google, street, art, tesla
 tags: 2020 UX google street art tesla, dns
 date: 2019-12-06T17:01:19.750Z
 ---
+![Nao Tatsumi Illustration - Google Street View Art](/assets/uploads/issue-187.png "Nao Tatsumi Illustration - Google Street View Art")
+
 # Links of The Week ending 6 December 2020
 
 <a href="http://naotatsumi.net/streetviewjourney.html" title="Nao Tatsumi Illustration - Google Street View Art" alt="Nao Tatsumi Illustration - Google Street View Art" target="_blank">Nao Tatsumi Illustration - Google Street View Art</a>
