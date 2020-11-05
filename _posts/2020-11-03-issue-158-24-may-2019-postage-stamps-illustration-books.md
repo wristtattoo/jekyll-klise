@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 158 24 May 2019 (postage, stamps, illustration, books)
+title: Issue 158 - 24 May 2019 (postage, stamps, illustration, books)
 tags: postage stamps illustration books
 date: 2019-05-24T14:44:35.576Z
 ---
+![Postage stamps as an R&amp;B identity and more](/assets/uploads/issue-158.jpg "Postage stamps as an R&amp;B identity and more")
+
 # Links of The Week ending 24 May 2019
 
 <a title="Postage stamps as an R&amp;B identity and more" href="https://www.itsnicethat.com/articles/haeri-chung-super-salad-graphic-design-220519" target="_blank">Postage stamps as an R&amp;B identity and more</a>
