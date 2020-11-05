@@ -4,6 +4,8 @@ title: Issue 51 - 5 May 2017 (google collapse, sgt pepper, ux, jabba the hutt)
 tags: google collapse sgt pepper ux jabba the hutt
 date: 2017-05-05T11:14:13.048Z
 ---
+![This is How Google will Collapse](/assets/uploads/issue-51.png "This is How Google will Collapse")
+
 # Links of The Week ending 5 May 2017
 
 <a href="https://medium.com/startup-grind/how-google-collapsed-b6ffa82198ee" target="_blank">This is How Google will Collapse</a>
