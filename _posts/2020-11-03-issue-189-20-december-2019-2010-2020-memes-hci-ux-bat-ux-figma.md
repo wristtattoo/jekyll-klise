@@ -4,6 +4,8 @@ title: Issue 189 - 20 December 2019 (2010-2020 memes, hci, ux, bat ux, figma)
 tags: memes hci ux bat ux figma
 date: 2019-12-20T17:04:14.573Z
 ---
+![The 100 Memes That Defined The 2010s](/assets/uploads/issue-189.png "The 100 Memes That Defined The 2010s")
+
 # Links of The Week ending 24 January 2020
 
 <a href="https://www.buzzfeednews.com/article/katienotopoulos/memes-that-defined-the-2010s" title="The 100 Memes That Defined The 2010s" alt="The 100 Memes That Defined The 2010s">The 100 Memes That Defined The 2010s</a>
