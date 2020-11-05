@@ -4,6 +4,8 @@ title: Issue 44 - 16 March 2017 (apps, illustration, comics)
 tags: apps illustration comics
 date: 2017-03-16T12:04:20.934Z
 ---
+![Simple, iconic and more than a bit mysterious Work by Land](/assets/uploads/issue-44.jpg "Simple, iconic and more than a bit mysterious Work by Land")
+
 # Links of The Week ending 16 March 2017
 
 <a href="http://www.workbyland.com/" target="_blank">Simple, iconic and more than a bit mysterious Work by Land</a>
