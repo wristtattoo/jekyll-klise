@@ -4,6 +4,8 @@ title: Issue 102 - 27 April 2018 (flickr, brand, design, gender)
 tags: flickr brand design gender
 date: 2018-04-27T12:51:12.944Z
 ---
+![Zak Parsons' Four Finger Press](/assets/uploads/issue-102.png "Zak Parsons' Four Finger Press")
+
 # Links of The Week ending 27 April 2018
 
 <a href="https://fourfingerpress.com/collections/all" target="_blank">Zak Parsons' Four Finger Press</a>
