@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 117 10 August 2018 (ux, vx, rick and morty, absurd)
+title: Issue 117 - 10 August 2018 (ux, vx, rick and morty, absurd)
 tags: ux vx rick and morty absurd
 date: 2018-08-10T13:19:08.095Z
 ---
+![Like UX before, the VX wave is coming — the viewer experience](/assets/uploads/issue-117.jpg "Like UX before, the VX wave is coming — the viewer experience")
+
 # Links of The Week ending 10 August 2018
 
 <a href="https://medium.com/thinkmojo/like-ux-before-the-vx-wave-is-coming-79a445a50fa6" target="_blank">Like UX before, the VX wave is coming — the viewer experience</a>
