@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 118 17 August 2018 (dashboard, design, don norman, errors)
+title: Issue 118 - 17 August 2018 (dashboard, design, don norman, errors)
 tags: dashboard design don norman errors
 date: 2018-08-17T13:20:47.713Z
 ---
+![Why Bad Technology Dominates Our Lives, According to Don Norman](/assets/uploads/issue-118.png "Why Bad Technology Dominates Our Lives, According to Don Norman")
+
 # Links of The Week ending 17 August 2018
 
 <a title="Why Bad Technology Dominates Our Lives, According to Don Norman" href="https://www.fastcompany.com/90202172/why-bad-technology-dominates-our-lives-according-to-don-norman" target="_blank">Why Bad Technology Dominates Our Lives, According to Don Norman</a> /
