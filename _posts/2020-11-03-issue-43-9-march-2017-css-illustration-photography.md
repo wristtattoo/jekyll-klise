@@ -4,6 +4,8 @@ title: Issue 43 - 9 March 2017 (css, illustration, photography)
 tags: css illustration,photography
 date: 2017-03-09T12:02:52.532Z
 ---
+![Truthful and hilarious Twitter thread opposing whiteboard interviews](/assets/uploads/issue-43.jpg "Truthful and hilarious Twitter thread opposing whiteboard interviews")
+
 # Links of The Week ending 9 March 2017
 
 <a href="https://twitter.com/i/moments/835942450103451649" target="_blank">Truthful and hilarious Twitter thread opposing whiteboard interviews</a>
