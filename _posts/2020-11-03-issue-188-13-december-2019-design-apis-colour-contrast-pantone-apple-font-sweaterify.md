@@ -5,6 +5,8 @@ title: Issue 188 - 13 December 2019 (design apis, colour, contrast, pantone,
 tags: design apis colour contrast pantone apple font sweaterify
 date: 2019-12-13T17:02:52.187Z
 ---
+![Graphic Designer Ikki Kobayashi](/assets/uploads/issue-188.png "Graphic Designer Ikki Kobayashi")
+
 # Links of The Week ending 13 January 2020
 
 <a href="https://www.instagram.com/kobayashi.ikki/" title="Graphic Designer Ikki Kobayashi" alt="Graphic Designer Ikki Kobayashi" target="_blank">Graphic Designer Ikki Kobayashi: Between Black and White</a>
