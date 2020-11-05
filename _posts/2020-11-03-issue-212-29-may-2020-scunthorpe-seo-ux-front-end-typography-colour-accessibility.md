@@ -5,6 +5,8 @@ title: Issue 212 - 29 May 2020 (scunthorpe, seo, ux, front-end, typography,
 tags: scunthorpe seo typography colour accessibility ux
 date: 2020-05-29T18:13:27.566Z
 ---
+![The Typearture Variable Color Initials](/assets/uploads/issue-212.gif "The Typearture Variable Color Initials")
+
 # Links of The Week ending 29 May 2020
 
 <a href="https://www.typearture.com/variable-color-font-initials/" title="The Typearture Variable Color Initials" alt="The Typearture Variable Color Initials" target="_blank">The Typearture Variable Color Initials</a>
@@ -31,7 +33,6 @@ date: 2020-05-29T18:13:27.566Z
 
 <a href="https://stephaniewalter.design/blog/tips-create-accessible-color-palette/" title="Tips to Create an Accessible and Contrasted Color Palette" alt="Tips to Create an Accessible and Contrasted Color Palette" target="_blank">Tips to Create an Accessible and Contrasted Color Palette</a>
 
-
-_and_...
+*and*...
 
 <a href="https://vole.wtf/scunthorpe-sans" title="Scunthorpe Sans 🗯🚫 profanity-blocking font" alt="Scunthorpe Sans 🗯🚫 profanity-blocking font" target="_blank">Scunthorpe Sans 🗯🚫 profanity-blocking font</a>
