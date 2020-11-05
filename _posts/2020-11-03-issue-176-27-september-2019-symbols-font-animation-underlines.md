@@ -4,6 +4,8 @@ title: Issue 176 - 27 September 2019 (symbols, font, animation, underlines)
 tags: symbols font animation, underlines
 date: 2019-09-27T15:48:05.771Z
 ---
+![Art of Symbols site](/assets/uploads/issue-176.png "Art of Symbols site")
+
 # Links of The Week ending 27 September 2019
 
 <a href="https://jonathanhaggard.github.io/Art-of-symbols-site/" title="Art of Symbols site" alt="Art of Symbols site" target="_blank">Art of Symbols site</a>
