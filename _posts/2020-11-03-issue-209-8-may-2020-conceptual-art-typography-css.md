@@ -4,6 +4,10 @@ title: Issue 209 - 8 May 2020 (conceptual, art, typography, css)
 tags: typography css art
 date: 2020-05-08T18:07:26.199Z
 ---
+![Conceptual Art of Barbara Kruger](/assets/uploads/issue-209.png "Conceptual Art of Barbara Kruger")
+
+# Links of the Week ending 8 May 2020
+
 <a href="http://www.artnet.com/artists/barbara-kruger/" title="Barbara Kruger" alt="Barbara Kruger" target="_blank">Conceptual Art of Barbara Kruger</a>
 
 <a href="https://www.smashingmagazine.com/2020/03/inspired-design-decisions-otto-storch/" title="Inspired Design Decisions With Otto Storch: When Idea, Copy, Art And Typography Became Inseparable" alt="Inspired Design Decisions With Otto Storch: When Idea, Copy, Art And Typography Became Inseparable" target="_blank">Inspired Design Decisions With Otto Storch: When Idea, Copy, Art And Typography Became Inseparable</a>
