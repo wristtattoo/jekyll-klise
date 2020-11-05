@@ -4,6 +4,8 @@ title: Issue 181 - 1 November 2019 (ui, buttons, tim, burton)
 tags: ui buttons
 date: 2019-11-01T16:53:06.045Z
 ---
+![10 Cool Fonts Graphic Designers Will Love in 2020](/assets/uploads/issue-181.png "10 Cool Fonts Graphic Designers Will Love in 2020")
+
 # Links of The Week ending 1 November 2019
 
 <a href="https://weandthecolor.com/10-cool-fonts-graphic-designers-will-love-in-2020/108222" title="10">10 Cool Fonts Graphic Designers Will Love in 2020</a>
