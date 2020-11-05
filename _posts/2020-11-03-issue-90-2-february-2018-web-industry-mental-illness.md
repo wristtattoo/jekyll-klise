@@ -4,6 +4,8 @@ title: Issue 90 - 2 February 2018 (web, industry, mental, illness)
 tags: web industry mental illness
 date: 2018-02-02T13:15:48.960Z
 ---
+![Mental Illness in the Web Industry](/assets/uploads/issue-90.jpg "Mental Illness in the Web Industry")
+
 # Links of The Week ending 2 February 2018
 
 <a href="http://alistapart.com/article/mental-illness-in-the-web-industry" target="_blank">Mental Illness in the Web Industry</a>
