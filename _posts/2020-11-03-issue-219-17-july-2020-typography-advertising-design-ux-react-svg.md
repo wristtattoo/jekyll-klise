@@ -4,6 +4,8 @@ title: Issue 219 - 17 July 2020 (typography, advertising, design, ux, react, svg
 tags: typography advertising ux react svg
 date: 2020-07-17T18:23:45.132Z
 ---
+![Experience is in the details: analyzing the UX of streaming services](/assets/uploads/issue-219.png "Experience is in the details: analyzing the UX of streaming services")
+
 # Links of The Week ending 17 July 2020
 
 <a href="https://uxdesign.cc/experience-is-in-the-details-analyzing-the-netflix-ux-6aa81a8f4d2b" title="Experience is in the details: analyzing the UX of streaming services" alt="Experience is in the details: analyzing the UX of streaming services" target="_blank">Experience is in the details: analyzing the UX of streaming services</a>
