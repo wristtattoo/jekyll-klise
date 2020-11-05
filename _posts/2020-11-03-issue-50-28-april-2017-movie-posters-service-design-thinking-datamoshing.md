@@ -4,6 +4,8 @@ title: Issue 50 - 28 April 2017 (movie posters, service design thinking, datamos
 tags: movie posters service design thinking datamoshing
 date: 2017-04-28T11:13:05.616Z
 ---
+![24x36; a documentary about Movie Posters](/assets/uploads/issue-50.jpg "24x36; a documentary about Movie Posters")
+
 # Links of The Week ending 28 April 2017
 
 <a href="https://vimeo.com/177418331" target="_blank">24x36; a documentary about Movie Posters</a>
@@ -19,7 +21,7 @@ date: 2017-04-28T11:13:05.616Z
 Loop 10 {
 Send,{Up}
 Sleep, 500
-Send,[
+Send,\[
 Sleep, 500
 Send,{Right}
 Sleep, 500
