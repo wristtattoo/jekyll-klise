@@ -4,6 +4,8 @@ title: Issue 101 - 20 April 2018 (braille, typeface, american express logo)
 tags: braille typeface american express logo
 date: 2018-04-20T12:49:04.749Z
 ---
+![Braille Nue](/assets/uploads/issue-101.png "Braille Nue")
+
 # Links of The Week ending 20 April 2018
 
 <a href="http://brailleneue.com/"  target="_blank">Braille Nue - a typeface with Braille built in</a> / 
