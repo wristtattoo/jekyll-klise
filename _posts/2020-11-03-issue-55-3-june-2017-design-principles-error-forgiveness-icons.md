@@ -4,7 +4,9 @@ title: Issue 55 - 3 June 2017 (design principles, error forgiveness, icons)
 tags: design principles error forgiveness icons
 date: 2017-06-03T11:19:35.564Z
 ---
-# Links of The Week ending 3 June 2017"
+![Design principle: Error &amp; Forgiveness](/assets/uploads/issue-55.png "Design principle: Error &amp; Forgiveness")
+
+# Links of The Week ending 3 June 2017
 
 <a href="https://uxplanet.org/design-principle-error-forgiveness-1495f7471113" target="_blank">Design principle: Error &amp; Forgiveness</a>
 
