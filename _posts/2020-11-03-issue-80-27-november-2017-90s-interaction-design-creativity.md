@@ -4,7 +4,9 @@ title: Issue 80 - 27 November 2017 (90s, interaction design, creativity)
 tags: 90s interaction design creativity
 date: 2017-11-27T12:53:07.100Z
 ---
-#Links of The Week beginning 27 November 2017
+![A 10-Minute Routine To Increase Your Clarity And Creativity](/assets/uploads/issue-80.jpg "A 10-Minute Routine To Increase Your Clarity And Creativity")
+
+# Links of The Week beginning 27 November 2017
 
 <a href="https://medium.com/the-mission/this-10-minute-routine-will-increase-your-clarity-and-creativity-7ce61b11c2f9#.qh674zn2o" target="_blank">A 10-Minute Routine To Increase Your Clarity And Creativity</a>
 
