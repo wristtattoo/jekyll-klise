@@ -5,6 +5,8 @@ title: Issue 173 - 6 September 2019 (thumb-driven, design, kerning, ligatures,
 tags: design kerning ligatures typography
 date: 2019-09-06T15:44:15.283Z
 ---
+![Thumb-Driven Design and the Bottom Navigation Pattern](/assets/uploads/issue-173.png "Thumb-Driven Design and the Bottom Navigation Pattern")
+
 # Links of The Week ending 6 September 2019
 
 <a href="https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/" title="Thumb-Driven Design and the Bottom Navigation Pattern" alt="Thumb-Driven Design and the Bottom Navigation Pattern" target="_blank">Thumb-Driven Design and the Bottom Navigation Pattern</a>
