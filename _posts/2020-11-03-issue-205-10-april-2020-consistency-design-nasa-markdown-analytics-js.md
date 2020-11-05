@@ -4,6 +4,8 @@ title: Issue 205 - 10 April 2020 (consistency, design, nasa, markdown, analytics
 tags: consistency design markdown analytics
 date: 2020-04-10T17:51:50.118Z
 ---
+![Consistency the Killer](/assets/uploads/issue-205.png "Consistency the Killer")
+
 # Links of The Week ending 10 April 2020
 
 <a href="https://uxdesign.cc/consistency-the-killer-e7a305789c2f" title="Consistency the Killer" alt="Consistency the Killer"  target="_blank">Consistency the Killer. Logical. Minimal. Clean. And, yes, consistent. So very, very consistent.</a>
