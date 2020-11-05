@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 163 28 June 2019 (ui, ux, information, overload)
+title: Issue 163 - 28 June 2019 (ui, ux, information, overload)
 tags: ui ux information overload
 date: 2019-06-28T15:04:35.100Z
 ---
+![A complete guide to iconography](/assets/uploads/issue-163.png "A complete guide to iconography")
+
 # Links of The Week ending 28 June 2019
 
 <a title="A complete guide to iconography" href="https://www.designsystems.com/iconography-guide/" target="_blank">A complete guide to iconography</a>
