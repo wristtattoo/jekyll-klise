@@ -4,6 +4,8 @@ title: Issue 52 - 12 May 2017 (typeset, entrepreneurship, login vs signup, sketc
 tags: typeset entrepreneurship login vs signup sketching
 date: 2017-05-12T11:15:41.467Z
 ---
+![Weird Words; Typeset](/assets/uploads/issue-52.jpg "Weird Words; Typeset")
+
 # Links of The Week ending 12 May 2017
 
 <a href="https://www.wired.com/2017/05/weird-words-phrases-designers-use-test-fonts/" target="_blank">Weird Words; Typeset</a>
