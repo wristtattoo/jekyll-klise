@@ -17,7 +17,7 @@ author:
   github: github_username # github username
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  email: not-my-email@email.com # email adress
   avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
