@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Issue 137 28 December 2018 (ugly, christmas, xmas, skateboarding)
+title: Issue 137 - 28 December 2018 (ugly, christmas, xmas, skateboarding)
 tags: christmas xmas skateboarding
 date: 2018-12-28T15:17:08.678Z
 ---
+![5 Creative Exercises from the Surrealists](/assets/uploads/issue-137.jpg "5 Creative Exercises from the Surrealists")
+
 # Links of The Week ending 28 December 2018
 
 <a href="http://merryxmas.ccbng.com/" target="_blank">Ugly Christmas sweater generator on merryxmas.ccbng.com</a>
