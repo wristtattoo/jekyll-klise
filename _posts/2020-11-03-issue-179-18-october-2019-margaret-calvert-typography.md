@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Issue 179 - 18 October 2019 (margaret, calvert, typography)
-tags: typography
+tags: typography notes
 date: 2019-10-18T15:51:04.110Z
 ---
+![The Typography of Margaret Calvert](/assets/uploads/issue-179.png "The Typography of Margaret Calvert")
+
 # Links of The Week ending 18 October 2019
 
 <a href="https://www.itsnicethat.com/features/margaret-calvert-in-conversation-graphic-design-081019" target="_blank">The Typography of Margaret Calvert (in conversation with It’s Nice That)</a>
