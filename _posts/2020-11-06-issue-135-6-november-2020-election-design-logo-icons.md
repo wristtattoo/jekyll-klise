@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issue 135 - 6 November 2020 (election, design, logo, icons)
+title: Issue 235 - 6 November 2020 (election, design, logo, icons)
 tags: election design logo icons figma
 date: 2020-11-06T09:57:33.750Z
 ---
