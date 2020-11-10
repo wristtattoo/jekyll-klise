@@ -1,7 +1,7 @@
 # Site settings
 title: Terry Wells MA Design | UX/UI Designer # site title
 description: >- # site description
-  A multi-disciplined designer with over 20 years experience in user-centered design. Being curious, interested in users behavior and looking to understand the reasons behind users actions. Observing and inquiring eventually to create a solution.
+  A multi-disciplined, masters degree postgraduate with over 25 years practical experience in user-centered design. Being curious, interested in users behavior and looking to understand the reasons behind users actions. Observing and inquiring eventually to create a solution.
 lang: en-US # default lang
 timezone: Europe/London # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -13,11 +13,11 @@ author:
   name: Terry Wells MA Design # author name
   bio: >- # tell to the world
     Links of The Week
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: not-my-email@email.com # email adress
+  # username: username # general username
+  # github: github_username # github username
+  # twitter: twitter_username # twitter username
+  # facebook: facebook_username # facebook username
+  # email: mail@terrywells.co.uk # email address
   avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
