@@ -2,47 +2,34 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: El Madrid, it’s nice to see ya. It’s really nice to be here. I love you all.
 comments: false
 ---
 
-El Madrid, it's nice to see ya<br>
-It's really nice to be here<br>
-I love you all<br>
+`El Madrid, it's nice to see ya`
+`It's really nice to be here`
+`I love you all`
 
-Stale beer, fat nuts, smoked out, cowpokes<br>
-Sequined mountain ladies<br>
-I love you all<br>
+`Stale beer, fat nuts, smoked out, cowpokes`
+`Sequined mountain ladies`
+`I love you all`
 
-Put your arms around me,<br>
-Fiddly digits, itchy britches<br>
-I love you all<br>
+`Put your arms around me,`
+`Fiddly digits, itchy britches`
+`I love you all`
 
-I love you all<br>
-I love you all<br>
-I love you all<br>
+`I love you all`
+`I love you all`
+`I love you all`
 
-Washrooms smell, they could be cleaner<br>
-Stench of cigarettes and stale urea<br>
-I love you all<br>
+`Washrooms smell, they could be cleaner`
+`Stench of cigarettes and stale urea`
+`I love you all`
 
-Prodigal son waits to return<br>
-To where the dogs play pool<br>
-I love you all<br>
+`Prodigal son waits to return`
+`To where the dogs play pool`
+`I love you all`
 
-I love you all<br>
-I love you all<br>
-I love you all<br>
-
-I love you all<br>
-
-I love you all<br>
-I love you all<br>
-I love you all<br>
-I love you all<br>
-I love you<br>
-I love you all<br>
-I love you<br>
-I love you<br>
-I love you all<br>
-I love you all
+I Love You All [feat. Michael Fassbender]<br>
+The Soronprfbs<br>
+Frank (Music and Songs by Stephen Rennicks)
