@@ -8,6 +8,10 @@ featured-image:
   src: /assets/uploads/issue-1.png
   alt: Alt 1
   title: Title 1
+related_image:
+  src: /assets/uploads/issue-1.png
+  alt: Alt
+  title: Title
 ---
 # Links of The Week ending 13 November 2020
 
