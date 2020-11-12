@@ -2,7 +2,7 @@
 layout: post
 title: Issue 236 - 14 November 2020 (cognitive load, icons, logos)
 tags: cognitive icons logos
-date: 2020-11-13T10:32:28.808Z
+date: 2020-11-12T10:36:49.937Z
 featuredimage: /assets/uploads/issue-236.png
 ---
 # Links of The Week ending 13 November 2020
