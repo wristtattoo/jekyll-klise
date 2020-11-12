@@ -8,13 +8,13 @@ featured_image:
   alt: Alt
   title: Title
 layout: post
-title: Issue 236 - 14 November 2020 (cognitive load, icons, bad logos)
 thumbnail: /assets/uploads/issue-1.png
 featuredimage: /assets/uploads/issue-236.png
+title: Issue 236 - 14 November 2020 (cognitive load, icons, bad logos)
 tags: cognitive icons bad logos ux ui trends
 date: 2020-11-12T10:36:49.937Z
 featured-image:
-  src: /assets/uploads/issue-1.png
+  src: /assets/uploads/issue-236.png
   alt: Alt 1
   title: Title 1
 ---
