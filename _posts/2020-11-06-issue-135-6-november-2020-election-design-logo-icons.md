@@ -3,6 +3,7 @@ layout: post
 title: Issue 235 - 6 November 2020 (election, design, logo, icons)
 tags: election design logo icons figma
 date: 2020-11-06T09:57:33.750Z
+featuredimage: /assets/uploads/issue-235.png
 ---
 ![Figma - bridging design and code with Variants](/assets/uploads/issue-235.png "Figma - bridging design and code with Variants")
 
