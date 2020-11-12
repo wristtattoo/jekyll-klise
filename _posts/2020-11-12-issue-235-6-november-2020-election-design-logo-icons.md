@@ -3,8 +3,10 @@ layout: post
 title: Issue 235 - 6 November 2020 (election, design, logo, icons)
 tags: election design logo icons figma
 date: 2020-11-06T10:48:24.471Z
-featuredimage: /assets/uploads/issue-235.png
+featuredimage: ""
 ---
+![Figma - bridging design and code with Variants](/assets/uploads/issue-235.png "Figma - bridging design and code with Variants")
+
 # Links of the Week ending 6 November 2020
 
 <a href="https://edition.cnn.com/interactive/2020/11/politics/vote-stickers-trnd/index.html" title="What 'I voted' stickers look like in all 50 states" alt="What 'I voted' stickers look like in all 50 states" target="_blank">What 'I voted' stickers look like in all 50 states</a>
