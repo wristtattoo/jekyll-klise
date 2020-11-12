@@ -4,6 +4,10 @@ title: Issue 236 - 14 November 2020 (cognitive load, icons, bad logos)
 tags: cognitive icons bad logos ux ui trends
 date: 2020-11-12T10:36:49.937Z
 featuredimage: /assets/uploads/issue-236.png
+featured-image:
+  src: /assets/uploads/issue-1.png
+  alt: Alt 1
+  title: Title 1
 ---
 # Links of The Week ending 13 November 2020
 
