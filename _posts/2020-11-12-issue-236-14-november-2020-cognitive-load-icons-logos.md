@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Issue 236 - 14 November 2020 (cognitive load, icons, logos)
-tags: cognitive icons logos
+title: Issue 236 - 14 November 2020 (cognitive load, icons, bad logos)
+tags: cognitive icons bad logos ux ui trends
 date: 2020-11-12T10:36:49.937Z
 featuredimage: /assets/uploads/issue-236.png
 ---
