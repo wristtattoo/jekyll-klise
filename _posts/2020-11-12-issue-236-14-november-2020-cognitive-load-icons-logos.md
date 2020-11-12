@@ -9,15 +9,17 @@ featured_image:
   title: Title
 layout: post
 thumbnail: /assets/uploads/issue-1.png
-featuredimage: /assets/uploads/issue-236.png
 title: Issue 236 - 14 November 2020 (cognitive load, icons, bad logos)
 tags: cognitive icons bad logos ux ui trends
 date: 2020-11-12T10:36:49.937Z
+featuredimage: ""
 featured-image:
   src: /assets/uploads/issue-236.png
   alt: Alt 1
   title: Title 1
 ---
+![Has this year's icon design trend gone too far? The cognitive load is real](/assets/uploads/issue-236.png "Has this year's icon design trend gone too far? The cognitive load is real")
+
 # Links of The Week ending 13 November 2020
 
 <a href="https://www.creativebloq.com/news/icon-design-trend" title="Has this year's icon design trend gone too far?" alt="Has this year's icon design trend gone too far?" target="_blank">Has this year's icon design trend gone too far? The cognitive load is real</a>
