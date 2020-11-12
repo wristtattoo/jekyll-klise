@@ -1,4 +1,8 @@
 ---
+featured_image:
+  src: /assets/uploads/issue-1.png
+  alt: Alt here
+  title: Title here
 layout: post
 title: Issue 236 - 13 November 2020 (cognitive load, icons, logos)
 tags: cognitive load icons logos
