@@ -6,7 +6,7 @@ featured_image:
 layout: post
 title: Issue 236 - 13 November 2020 (cognitive load, icons, logos)
 tags: cognitive load icons logos
-date: 2020-11-13T00:00:34.495Z
+date: 2020-11-13T08:35:13.471Z
 ---
 ![Has this year's icon design trend gone too far?](/assets/uploads/issue-236.png "Has this year's icon design trend gone too far?")
 
