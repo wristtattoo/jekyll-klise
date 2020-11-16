@@ -22,8 +22,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap', '~> 1.4'
   gem 'jekyll-compose', '~> 0.12.0'
   gem 'jekyll-postfiles', '~> 3.1'
-  gem 'rmagick'
-  gem 'jekyll-responsive-image'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
