@@ -5,6 +5,8 @@ title: Issue 227 - 11 September 2020 (accessibility, clickclickclick.click, seo,
 tags: accessibility seo usability
 date: 2020-09-11T18:33:25.967Z
 ---
+![Modifying Specific Letters with CSS and JavaScript](/assets/uploads/issue-227.png "Modifying Specific Letters with CSS and JavaScript")
+
 # Links of The Week ending 11 September 2020
 
 <a href="https://css-tricks.com/modifying-specific-letters-with-css-and-javascript/" title="Modifying Specific Letters with CSS and JavaScript" alt="Modifying Specific Letters with CSS and JavaScript" target="_blank">Modifying Specific Letters with CSS and JavaScript</a> via CSS Tricks
