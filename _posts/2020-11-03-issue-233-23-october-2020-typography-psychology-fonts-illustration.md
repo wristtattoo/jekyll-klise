@@ -4,7 +4,7 @@ title: Issue 233 - 23 October 2020 (typography, psychology, fonts, illustration)
 tags: typography psychology fonts illustration
 date: 2020-10-23T18:41:36.985Z
 ---
-![The Curious (and Captivating) ‘Case’ of Erik Spiekermann](/assets/uploads/issue-233.png "The Curious (and Captivating) ‘Case’ of Erik Spiekermann")
+![The Curious and Captivating Case of Erik Spiekermann](/assets/uploads/issue-233.png "The Curious and Captivating Case of Erik Spiekermann")
 
 # Links of The Week ending 23 October 2020
 
