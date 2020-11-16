@@ -18,6 +18,6 @@ date: 2020-09-18T18:34:35.030Z
 
 <a href="https://css-tricks.com/content-visibility-the-new-css-property-that-boosts-your-rendering-performance/" title="content-visibility:" alt="content-visibility:">content-visibility: the new CSS property that boosts your rendering performance</a> <a href="https://codepen.io/vmpstr/pen/xxZoyMb" title="Codepen.io Example" alt="Codepen.io Example" target="_blank"> ~ Codepen.io Example</a>
 
-<a href="https://twitter.com/burstofbeaden/status/1305647648263692288" title="@burstofbeaden" alt=“@burstofbeaden” target="_blank">Tweet by @burstofbeaden "drew some skull stuff last year & just made a folder for them"</a>
+<a href="https://twitter.com/burstofbeaden/status/1305647648263692288" title="burstofbeaden" alt=“burstofbeaden” target="_blank">Tweet by burstofbeaden - drew some skull stuff last year & just made a folder for them</a>
 
 <a href="https://youtu.be/m90VK3o_jjw" target="_blank" title="Most Popular Internet Browsers 1994 - 2019" alt="Most Popular Internet Browsers 1994 - 2019">Most Popular Internet Browsers 1994 - 2019 - YouTube</a>
