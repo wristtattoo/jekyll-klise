@@ -10,4 +10,6 @@ Original article: <a href="https://uxmovement.com/navigation/why-users-arent-cli
 
 > Revisiting a bookmarked article inspired this carousel design for reissued 1980's Powell Peralta Skateboard Decks. UX affordance cues benefit from a carousel here given it's natural timeline flow. ~ Terry
 
+Taken from <a href="/issue-32-15-december-2016-svg-ux-widget-grid/" alt="Issue 32" title="Issue 32">Issue 32</a> -  <a href="https://uxmovement.com/navigation/why-users-arent-clicking-your-home-page-carousel/" title="Why Users Aren't Clicking Your Home Page Carousel" alt="Why Users Aren't Clicking Your Home Page Carousel" target="_blank">Why Users Aren't Clicking Your Home Page Carousel</a>
+
 ##### 13 Days of Figma - Visual examples of User Centered Design inspired by Links of The Week
