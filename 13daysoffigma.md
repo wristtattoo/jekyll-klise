@@ -6,7 +6,7 @@ excerpt: 13 Days of Figma - Visual examples of User Centered Design based on Lin
 comments: false
 tags: figma 13 days 13DOF
 ---
-### Day 2 - Design Principles for Reducing Cognative Load
+### Day 2 - Design Principles for Reducing Cognitive Load
 
 Figma Prototype: <a href="/13-days-of-figma-day-2-design-principles-for-reducing-cognitive-load/" title="Day 2 - Design Principles for Reducing Cognitive Load" alt="Day 2 - Design Principles for Reducing Cognitive Load">Day 2 - Design Principles for Reducing Cognitive Load</a>
 
