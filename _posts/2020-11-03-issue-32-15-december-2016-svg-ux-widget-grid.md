@@ -12,4 +12,6 @@ date: 2016-12-16T11:41:25.202Z
 
 <a href="http://www.zeldman.com/2016/12/14/font-size-widgets/" target="_blank">In defense of font size widgets</a>
 
+<a href="https://uxmovement.com/navigation/why-users-arent-clicking-your-home-page-carousel/" title="Why Users Aren't Clicking Your Home Page Carousel" alt="Why Users Aren't Clicking Your Home Page Carousel" target="_blank">Why Users Aren't Clicking Your Home Page Carousel</a>
+
 <a href="https://medium.com/built-to-adapt/intro-to-the-8-point-grid-system-d2573cde8632" target="_blank">Intro to the 8-Point Grid System</a>
