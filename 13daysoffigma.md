@@ -6,6 +6,18 @@ excerpt: 13 Days of Figma - Visual examples of User Centered Design based on Lin
 comments: false
 tags: figma 13 days 13DOF
 ---
+### Day 3 - Hick’s Law — The law that makes or breaks a UX designer
+
+Figma Prototype: <a href="13-days-of-figma-day-3-hick-s-law-the-law-that-makes-or-breaks-a-ux-designer/" title="Day 3 - Hick’s Law — The law that makes or breaks a UX designer" alt="Day 3 - Hick’s Law — The law that makes or breaks a UX designer">Day 3 - Hick’s Law — The law that makes or breaks a UX designer</a>
+
+> If you can not reduce the choice, at least hide less popular options. It’s not just about the number of choices but about how distinct those choices are from one another. Hicks Law shows us that the more choices we offer a user, the longer it will take for them to decide, so increasing the chance they abandon the process. ~ Terry
+
+Taken from <a href="/issue-208-1-may-2020-times-new-arial-typography-fonts-hicks-law-ux-ucd-ghibli-beastie-boys/" alt="Issue 208" title="Issue 208">Issue 208</a> - <a href="https://uxdesign.cc/do-you-know-the-law-that-makes-or-breaks-a-ux-designer-hicks-law-6f2651400663" title="Hick’s Law — Do you know the law that makes or breaks a UX designer?" alt="Hick’s Law — Do you know the law that makes or breaks a UX designer?" target="_blank">Hick’s Law — Do you know the law that makes or breaks a UX designer?</a>
+
+---
+
+<br><br>
+
 ### Day 2 - Design Principles for Reducing Cognitive Load
 
 Figma Prototype: <a href="/13-days-of-figma-day-2-design-principles-for-reducing-cognitive-load/" title="Day 2 - Design Principles for Reducing Cognitive Load" alt="Day 2 - Design Principles for Reducing Cognitive Load">Day 2 - Design Principles for Reducing Cognitive Load</a>
