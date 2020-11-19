@@ -9,7 +9,7 @@ date: 2020-11-19T08:15:21.271Z
 
 Original article: <a href="https://uxdesign.cc/do-you-know-the-law-that-makes-or-breaks-a-ux-designer-hicks-law-6f2651400663" title="Hick’s Law — Do you know the law that makes or breaks a UX designer?" alt="Hick’s Law — Do you know the law that makes or breaks a UX designer?" target="_blank">Hick’s Law — Do you know the law that makes or breaks a UX designer?</a>
 
-> Generally, the application of Hick’s Law is simple – reduce the number of stimuli and get a faster decision-making process — but there are exceptions to the rule. For example, a user may already have made a decision before seeing the stimuli. In that instance, the time it takes for him/her to act is likely to be less than if he/she had not already determined a course of action. ~ Mads Soegaard
+> If you can not reduce the choice, at least hide less popular options. It’s not just about the number of choices but about how distinct those choices are from one another. Hicks Law shows us that the more choices we offer a user, the longer it will take for them to decide, so increasing the chance they abandon the process. ~ Terry
 
 Taken from <a href="/issue-208-1-may-2020-times-new-arial-typography-fonts-hicks-law-ux-ucd-ghibli-beastie-boys/" alt="Issue 208" title="Issue 208">Issue 208</a> -  <a href="https://uxdesign.cc/do-you-know-the-law-that-makes-or-breaks-a-ux-designer-hicks-law-6f2651400663" title="Hick’s Law — Do you know the law that makes or breaks a UX designer?" alt="Hick’s Law — Do you know the law that makes or breaks a UX designer?" target="_blank">Hick’s Law — Do you know the law that makes or breaks a UX designer?</a>
 
