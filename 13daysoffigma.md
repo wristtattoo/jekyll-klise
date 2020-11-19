@@ -34,7 +34,7 @@ Taken from <a href="/issue-3-3-march-2016/" alt="Issue 3" title="Issue 3">Issue 
 
 Figma Prototype: <a href="/13-days-of-figma-day-1-why-users-arent-clicking-your-home-page-carousel/" title="Day 1 - Why Users Aren't Clicking Your Home Page Carousel" alt="Day 1 - Why Users Aren't Clicking Your Home Page Carousel">Day 1 - Why Users Aren't Clicking Your Home Page Carousel</a>
 
-> Revisiting a bookmarked article inspired this carousel design for reissued 1980's Powell Peralta Skateboard Decks. UX affordance cues benefit from a carousel here given it's natural timeline flow. ~ Terry
+> UX affordance cues benefit from a carousel here given it's natural timeline flow. ~ Terry
 
 Taken from <a href="/issue-32-15-december-2016-svg-ux-widget-grid/" alt="Issue 32" title="Issue 32">Issue 32</a> -  <a href="https://uxmovement.com/navigation/why-users-arent-clicking-your-home-page-carousel/" title="Why Users Aren't Clicking Your Home Page Carousel" alt="Why Users Aren't Clicking Your Home Page Carousel" target="_blank">Why Users Aren't Clicking Your Home Page Carousel</a>
 
