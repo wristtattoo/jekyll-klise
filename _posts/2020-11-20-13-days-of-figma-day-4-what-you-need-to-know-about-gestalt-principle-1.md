@@ -10,4 +10,4 @@ Original article: [What You Need to Know About Gestalt Principle](https://uxplan
 
 > Placing all items in close proximity when searching for a specific item within a user interface does not aid detection speed. ~ Terry
 
-Taken from [Issue 215](/issue-215-19-june-2020-gestalt-typography-ux-seo-analytics/){:title="Issue 215"}{:alt="Issue 215"} - [What You Need to Know About Gestalt Principle](/issue-215-19-june-2020-gestalt-typography-ux-seo-analytics/){:title="What You Need to Know About Gestalt Principle"}{:alt="What You Need to Know About Gestalt Principle"}{:target="_blank"}
+Taken from [Issue 215](/issue-215-19-june-2020-gestalt-typography-ux-seo-analytics/){:title="Issue 215"}{:alt="Issue 215"} - [What You Need to Know About Gestalt Principle](https://uxplanet.org/what-you-need-to-know-about-gestalt-principle-c440f5d7fc1d){:title="What You Need to Know About Gestalt Principle"}{:alt="What You Need to Know About Gestalt Principle"}{:target="_blank"}
