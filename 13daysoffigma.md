@@ -6,6 +6,18 @@ excerpt: 13 Days of Figma - Visual examples of User Centered Design based on Lin
 comments: false
 tags: figma 13 days 13DOF
 ---
+### Day 4 - What You Need to Know About Gestalt Principle #1
+
+Figma Prototype: <a href="/13-days-of-figma-day-4-what-you-need-to-know-about-gestalt-principle-1/" title="Day 4 - What You Need to Know About Gestalt Principle #1" alt="Day 4 - What You Need to Know About Gestalt Principle #1">Day 4 - What You Need to Know About Gestalt Principle #1</a>
+
+> Placing all items in close proximity when searching for a specific item within a user interface does not aid detection speed. ~ Terry
+
+Taken from [Issue 215](/issue-215-19-june-2020-gestalt-typography-ux-seo-analytics/){:title="Issue 215"}{:alt="Issue 215"} - [What You Need to Know About Gestalt Principle](https://uxplanet.org/what-you-need-to-know-about-gestalt-principle-c440f5d7fc1d){:title="What You Need to Know About Gestalt Principle"}{:alt="What You Need to Know About Gestalt Principle"}{:target="_blank"}
+
+---
+
+<br><br>
+
 ### Day 3 - Hick’s Law — The law that makes or breaks a UX designer
 
 Figma Prototype: <a href="/13-days-of-figma-day-3-hick-s-law-the-law-that-makes-or-breaks-a-ux-designer/" title="Day 3 - Hick’s Law — The law that makes or breaks a UX designer" alt="Day 3 - Hick’s Law — The law that makes or breaks a UX designer">Day 3 - Hick’s Law — The law that makes or breaks a UX designer</a>
