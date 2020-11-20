@@ -8,22 +8,20 @@ date: 2020-11-20T08:05:06.593Z
 
 # Links of The Week ending 20 November 2020
 
-<a href="https://www.creativebloq.com/news/2021-graphic-design-trends" title="11 surprising graphic design trends for 2021" alt="11 surprising graphic design trends for 2021" target="_blank”>11 surprising graphic design trends for 2021</a>
+[11 surprising graphic design trends for 2021](https://www.creativebloq.com/news/2021-graphic-design-trends){:title="11 surprising graphic design trends for 2021"}{:alt="11 surprising graphic design trends for 2021"}{:target="_blank"}
 
-<a href="https://www.typewolf.com/blog/fonts-in-popular-things-identified-vol-2" title="The Fonts in Popular Things Identified Vol. 2" alt="The Fonts in Popular Things Identified Vol. 2" target="_blank”>The Fonts in Popular Things Identified Vol. 2</a>
+[The Fonts in Popular Things Identified Vol. 2](https://www.typewolf.com/blog/fonts-in-popular-things-identified-vol-2){:title="The Fonts in Popular Things Identified Vol. 2"}{:alt="The Fonts in Popular Things Identified Vol. 2"}{:target="_blank"}
 
-<a href="https://www.creativeboom.com/resources/top-24-fonts-in-2021/" title="24 fonts that will be popular with designers in 2021" alt="24 fonts that will be popular with designers in 2021" target="_blank”>24 fonts that will be popular with designers in 2021</a>
+[24 fonts that will be popular with designers in 2021](https://www.creativeboom.com/resources/top-24-fonts-in-2021/){:title="24 fonts that will be popular with designers in 2021"}{:alt="24 fonts that will be popular with designers in 2021"}{:target="_blank"}
 
-<a href="https://uxdesign.cc/a-design-system-is-not-a-sticker-sheet-caeac93f896a" title="A design system is not a sticker sheet" alt="A design system is not a sticker sheet" target="_blank”>A design system is not a sticker sheet</a>
+[A design system is not a sticker sheet](https://uxdesign.cc/a-design-system-is-not-a-sticker-sheet-caeac93f896a){:title="A design system is not a sticker sheet"}{:alt="A design system is not a sticker sheet"}{:target="_blank"}
 
-<a href="https://uxdesign.cc/remote-usability-testing-playbook-8edce9c5057d" title="Remote usability testing: a playbook" alt="Remote usability testing: a playbook" target="_blank”>Remote usability testing: a playbook</a>
+[Remote usability testing: a playbook](https://uxdesign.cc/remote-usability-testing-playbook-8edce9c5057d){:title="Remote usability testing: a playbook"}{:alt="Remote usability testing: a playbook"}{:target="_blank"}
 
-<a href="https://www.creativeboom.com/inspiration/lockdown-typelocks/" title="Lockdown Type: Molu Designs brings us typographic messages of positivity and hope
-" alt="Lockdown Type: Molu Designs brings us typographic messages of positivity and hope
-" target="_blank”>Lockdown Type: Molu Designs brings us typographic messages of positivity and hope.</a>
+[Lockdown Type: Molu Designs brings us typographic messages of positivity and hope](https://www.creativeboom.com/inspiration/lockdown-typelocks/){:title="Lockdown Type: Molu Designs brings us typographic messages of positivity and hope"}{:alt="Lockdown Type: Molu Designs brings us typographic messages of positivity and hope"}{:target="_blank"}
 
-<a href="https://www.telerik.com/blogs/building-micro-frontends" title="Building Micro Frontends" alt="Building Micro Frontends" target="_blank”>Building Micro Frontends</a>
+[Building Micro Frontends](https://www.telerik.com/blogs/building-micro-frontends){:title="Building Micro Frontends"}{:alt="Building Micro Frontends"}{:target="_blank"}
 
 and...
 
-<a href="https://faroutmagazine.co.uk/henry-rollins-30-favourite-books-mark-twain-allen-ginsberg/" title="From Mark Twain to Allen Ginsberg: The 30 books that changed Henry Rollins’ life" alt="From Mark Twain to Allen Ginsberg: The 30 books that changed Henry Rollins’ life" target="_blank”>From Mark Twain to Allen Ginsberg: The 30 books that changed Henry Rollins’ life</a>
+[From Mark Twain to Allen Ginsberg: The 30 books that changed Henry Rollins](https://faroutmagazine.co.uk/henry-rollins-30-favourite-books-mark-twain-allen-ginsberg/){:title="From Mark Twain to Allen Ginsberg: The 30 books that changed Henry Rollins"}{:alt="From Mark Twain to Allen Ginsberg: The 30 books that changed Henry Rollins"}{:target="From Mark Twain to Allen Ginsberg: The 30 books that changed Henry Rollins"}
