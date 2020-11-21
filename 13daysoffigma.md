@@ -6,6 +6,17 @@ excerpt: 13 Days of Figma - Visual examples of User Centered Design based on Lin
 comments: false
 tags: figma 13 days 13DOF
 ---
+### Day 5 - Said no user ever
+Figma Prototype: <a href="/13-days-of-figma-day-5-said-no-user-ever/" title="Day 5 - Said no user ever" alt="Day 5 - Said no user ever">Day 5 - Said no user ever</a>
+
+> Empathic design is a consideration of how the end-user will use what is being designed. Exposing a project to empathy design early on in UX gains valuable feeback potentially saving hours of development time. UX is an approach to design and development that focuses on the context of use for the solution designed and having empathy of the end-users of a product, service, or system in order to improve the quality of the final solution. Empathy design has proven essential in my experience. ~ Terry
+
+Taken from [Issue 115](/issue-115-27-july-2018-geocities-search-y2k-misinformation/){:title="Issue 115"}{:alt="Issue 115"} - [Said no user ever ](https://uxplanet.org/what-you-need-to-know-about-gestalt-principle-c440f5d7fc1d){:title="Said no user ever "}{:alt="Said no user ever "}{:target="_blank"}
+
+---
+
+<br><br>
+
 ### Day 4 - What You Need to Know About Gestalt Principle #1
 
 Figma Prototype: <a href="/13-days-of-figma-day-4-what-you-need-to-know-about-gestalt-principle-1/" title="Day 4 - What You Need to Know About Gestalt Principle #1" alt="Day 4 - What You Need to Know About Gestalt Principle #1">Day 4 - What You Need to Know About Gestalt Principle #1</a>
