@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 6 - Psychology of Simple
+title: 13 Days of Figma / Day 6 - Psychology of Simple
 tags: 13DOF figma ux ui ucd simple empathy
 date: 2020-11-22T11:30:16.387Z
 ---
