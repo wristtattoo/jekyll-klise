@@ -6,6 +6,16 @@ excerpt: 13 Days of Figma - Visual examples of User Centered Design based on Lin
 comments: false
 tags: figma 13 days 13DOF
 ---
+### Day 6 - Psychology of Simple
+Figma Prototype: <a href="/13-days-of-figma-day-6-psychology-of-simple/" title="Day 6 - Psychology of Simple" alt="Day 6 - Psychology of Simple">Day 6 - Psychology of Simple</a>
+
+> It is my role to understand and care about different user needs including those with visual, speech, auditory, physical or cognitive disabilities. Usability is about designing products to be efficient and satisfying usable by everyone regardless of age, ability and circumstance. Empathy towards the user is also a key principle. Interaction design is driven by a human connection and users are vital to the design process.. ~ Terry
+
+Taken from [Issue 4](/issue-4-10-march-2016/){:title="Issue 4"}{:alt="Issue 4"} - [Psychology of Simple](https://thenextweb.com/dd/2015/05/31/the-psychology-of-simple/){:title="Psychology of Simple"}{:alt="Psychology of Simple"}{:target="_blank"}
+
+---
+
+<br><br>
 ### Day 5 - Said no user ever
 Figma Prototype: <a href="/13-days-of-figma-day-5-said-no-user-ever/" title="Day 5 - Said no user ever" alt="Day 5 - Said no user ever">Day 5 - Said no user ever</a>
 
