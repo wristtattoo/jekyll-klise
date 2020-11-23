@@ -6,6 +6,17 @@ excerpt: 13 Days of Figma - Visual examples of User Centered Design based on Lin
 comments: false
 tags: figma 13 days 13DOF
 ---
+### Day 7 - How the Web Became Unreadable
+Figma Prototype: <a href="/13-days-of-figma-day-7-how-the-web-became-unreadable/" title="Day 7 - How the Web Became Unreadable" alt="Day 7 - PHow the Web Became Unreadable">Day 7 - How the Web Became Unreadable</a>
+
+> Similarity is an essential user interface design feature as this can encourage prompt detection of functional items ensuring that links and navigation elements are visually differentiated from text element, and are consistently styled. ~ Terry
+
+Taken from [Issue 25](/issue-25-27-october-2016-design-freebies-icons/){:title="Issue 25"}{:alt="Issue 25"} - [How the Web Became Unreadable](https://www.wired.com/2016/10/how-the-web-became-unreadable){:title="How the Web Became Unreadable"}{:alt="How the Web Became Unreadable"}{:target="_blank"}
+
+---
+
+<br><br>
+
 ### Day 6 - Psychology of Simple
 Figma Prototype: <a href="/13-days-of-figma-day-6-psychology-of-simple/" title="Day 6 - Psychology of Simple" alt="Day 6 - Psychology of Simple">Day 6 - Psychology of Simple</a>
 
