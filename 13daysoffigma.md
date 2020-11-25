@@ -2,10 +2,22 @@
 title: 13 Days of Figma
 permalink: /13daysoffigma/
 layout: 13dofpage
-excerpt: 13 Days of Figma - Visual examples of User Centered Design based on Links of The Week articles by Terry Wells MA Design
+excerpt: 13 Days of Figma - Visual examples of User Centered Design insipred by Links of The Week articles
 comments: false
 tags: figma 13 days 13DOF
 ---
+### Day 9 - How to Write any Error Message
+Figma Prototype: <a href="/13-days-of-figma-day-9-how-to-write-any-error-message/" title="Day 9 - How to Write any Error Message" alt="Day 9 - How to Write any Error Message">Day 9 - How to Write any Error Message</a>
+
+> Joined by some physical connection, law of element connectedness comes into play here. Design can exploit the grouping laws, such as element connectedness, to influence our perception of physical or graphical objects. This is particularly important when presenting users with large numbers of items at once.
+
+Inspired by [Issue 118](/issue-118-17-august-2018-dashboard-design-don-norman-errors/){:title="Issue 118"}{:alt="Issue 118"} - [Content design: How to write any error message
+](https://medium.com/deliveroo-design/how-to-write-any-error-message-7a3348cce594){:title="Content design: How to write any error message"}{:alt="Content design: How to write any error message"}{:target="_blank"}
+
+---
+
+<br><br>
+
 ### Day 8 - Designing for Human Memory
 Figma Prototype: <a href="/13-days-of-figma-day-8-designing-for-human-memory/" title="Day 8 - Designing for Human Memory" alt="Day 8 - Designing for Human Memory">Day 8 - Designing for Human Memory</a>
 
