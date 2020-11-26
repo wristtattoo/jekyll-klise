@@ -12,7 +12,7 @@ date: 2020-05-08T18:07:26.199Z
 
 <a href="https://www.smashingmagazine.com/2020/03/inspired-design-decisions-otto-storch/" title="Inspired Design Decisions With Otto Storch: When Idea, Copy, Art And Typography Became Inseparable" alt="Inspired Design Decisions With Otto Storch: When Idea, Copy, Art And Typography Became Inseparable" target="_blank">Inspired Design Decisions With Otto Storch: When Idea, Copy, Art And Typography Became Inseparable</a>
 
-<a href=”https://type.today/en/journal/bodhuin” title=”Benoît Bodhuin: “Offering some kind of human filling in typography” alt=”Benoît Bodhuin: “Offering some kind of human filling in typography” target=”_blank”>Benoît Bodhuin: “Offering some kind of human filling in typography”</a>
+[Benoît Bodhuin: “Offering some kind of human filling in typography](https://type.today/en/journal/bodhuin){:title="Benoît Bodhuin: “Offering some kind of human filling in typography"}{:alt="Benoît Bodhuin: “Offering some kind of human filling in typography"}{:target="_blank"}
 
 <a href="https://thefutur.com/video/typography-rules" title="10 Rules To Help You Rule Typography" alt="10 Rules To Help You Rule Typography" target="_blank">10 Rules To Help You Rule Typography</a>
 
