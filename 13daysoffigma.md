@@ -6,6 +6,18 @@ excerpt: 13 Days of Figma - Visual examples of User Centered Design insipred by 
 comments: false
 tags: figma 13 days 13DOF
 ---
+### Day 10 - Brutalist Design is the bad influence we all need
+Figma Prototype: <a href="/13-days-of-figma-day-10-brutalist-design-is-the-bad-influence-we-all-need/" title="Day 10 - Brutalist Design is the bad influence we all need" alt="Day 10 - Brutalist Design is the bad influence we all need">Day 10 - Brutalist Design is the bad influence we all need</a>
+
+> Law of Prägnanz research confirms that people are better able to visually process and remember simple figures than complex figures. The human eye likes to find simplicity and order in complex shapes because it prevents us from becoming overwhelmed with information.
+
+Inspired by [Issue 100](/issue-100-13-april-2018-brutalist-design-graphic-artist-illustration/){:title="Issue 100"}{:alt="Issue 100"} - [Brutalist Design is the bad influence we all need
+](https://www.imaginarycloud.com/blog/why-we-need-web-brutalism/){:title="Brutalist Design is the bad influence we all need"}{:alt="Brutalist Design is the bad influence we all need"}{:target="_blank"}
+
+---
+
+<br><br>
+
 ### Day 9 - How to Write any Error Message
 Figma Prototype: <a href="/13-days-of-figma-day-9-how-to-write-any-error-message/" title="Day 9 - How to Write any Error Message" alt="Day 9 - How to Write any Error Message">Day 9 - How to Write any Error Message</a>
 
