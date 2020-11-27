@@ -2,10 +2,26 @@
 title: 13 Days of Figma
 permalink: /13daysoffigma/
 layout: 13dofpage
-excerpt: 13 Days of Figma - Visual examples of User Centered Design insipred by Links of The Week articles
+excerpt: 13 Days of Figma - Visual examples of User Centered Design insipred by Links of The Week
 comments: false
 tags: figma 13 days 13DOF
 ---
+### Day 11 - The good, the bad and the ugly of A/B Testing
+Figma Prototype: <a href="13-days-of-figma-day-11-the-good-the-bad-and-the-ugly-of-a-b-testing/" title="Day 11 - The good, the bad and the ugly of A/B Testing" alt="Day 11 - The good, the bad and the ugly of A/B Testing">Day 11 - The good, the bad and the ugly of A/B Testing</a>
+
+> A catch-all term for most user testing methods. A/B testing does have its own advantages, however, and provides a great supplement to qualitative studies. Simply, you don't know why you get the measured results as your not directly observing the users or gaining insights to their thoughts.
+
+> Quantitative research can help capture real-time activities in the workplace and point toward what needs attention.
+
+> Qualitative Research is about capturing people’s changing opinions and emotions at the touchy-feely end of the spectrum therefore the basis of empathic understanding how people perceive and do things.
+Qualitative research can be concentrated and more targeted to gather meaningful data. This method of research are not bound by the limitations of quantitative ‘bean-counting' methods.
+
+Inspired by [Issue 211](/issue-211-22-may-2020-a-b-testing-npm-yarn-seo-typography-sopranos/){:title="Issue 211"}{:alt="Issue 211"} - [The good, the bad and the ugly of A/B Testing](https://uxdesign.cc/the-good-the-bad-and-the-ugly-of-a-b-testing-clearleft-90d2f01efca8){:title="The good, the bad and the ugly of A/B Testing"}{:alt="The good, the bad and the ugly of A/B Testing"}{:target="_blank"}
+
+---
+
+<br><br>
+
 ### Day 10 - Brutalist Design is the bad influence we all need
 Figma Prototype: <a href="/13-days-of-figma-day-10-brutalist-design-is-the-bad-influence-we-all-need/" title="Day 10 - Brutalist Design is the bad influence we all need" alt="Day 10 - Brutalist Design is the bad influence we all need">Day 10 - Brutalist Design is the bad influence we all need</a>
 
