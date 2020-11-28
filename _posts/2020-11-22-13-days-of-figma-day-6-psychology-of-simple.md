@@ -12,5 +12,4 @@ Original article: [Psychology of Simple](https://thenextweb.com/dd/2015/05/31/th
 
 Taken from [Issue 4](/issue-4-10-march-2016/){:title="Issue 4"}{:alt="Issue 4"} - [Psychology of Simple](https://thenextweb.com/dd/2015/05/31/the-psychology-of-simple/){:title="Psychology of Simple"}{:alt="Psychology of Simple"}{:target="_blank"}
 
-##### 13 Days of Figma - Visual examples of User Centered Design inspired by Links of The Week
-
+##### 13 Days of Figma - Visual examples of User Centered Design inspired by [Links of The Week](/archive/){:title="Links of The Week"}{:alt="Links of The Week"}

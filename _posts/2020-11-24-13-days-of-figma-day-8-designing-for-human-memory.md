@@ -12,4 +12,4 @@ Original article: [Designing for Human Memory](https://uxdesign.cc/said-no-user-
 
 Taken from [Issue 76](/issue-76-27-october-2017-artwork-halloween-human-memory/){:title="Issue 76"}{:alt="Issue 76"} - [Designing for Human Memory](https://uxplanet.org/designing-for-human-memory-a2cdc0b6a75a){:title="Designing for Human Memory"}{:alt="Designing for Human Memory"}{:target="_blank"}
 
-##### 13 Days of Figma - Visual examples of User Centered Design inspired by Links of The Week
+##### 13 Days of Figma - Visual examples of User Centered Design inspired by [Links of The Week](/archive/){:title="Links of The Week"}{:alt="Links of The Week"}

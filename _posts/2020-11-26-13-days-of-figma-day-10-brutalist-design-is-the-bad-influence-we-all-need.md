@@ -12,4 +12,4 @@ Original article: [Brutalist Design is the bad influence we all need](https://ww
 
 Inspired by [Issue 100](/issue-100-13-april-2018-brutalist-design-graphic-artist-illustration/){:title="Issue 100"}{:alt="Issue 100"} - [Brutalist Design is the bad influence we all need](https://www.imaginarycloud.com/blog/why-we-need-web-brutalism/){:title="Brutalist Design is the bad influence we all need"}{:alt="Brutalist Design is the bad influence we all need"}{:target="_blank"}
 
-##### 13 Days of Figma - Visual examples of User Centered Design inspired by Links of The Week
+##### 13 Days of Figma - Visual examples of User Centered Design inspired by [Links of The Week](/archive/){:title="Links of The Week"}{:alt="Links of The Week"}

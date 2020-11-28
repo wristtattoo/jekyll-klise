@@ -12,4 +12,4 @@ Original article: <a href="https://jonyablonski.com/articles/2015/design-princip
 
 Taken from <a href="/issue-3-3-march-2016/" alt="Issue 3" title="Issue 3">Issue 3</a> - <a href="https://jonyablonski.com/articles/2015/design-principles-for-reducing-cognitive-load/" title="Design Principles for Reducing Cognitive Load" alt="Design Principles for Reducing Cognitive Load" target="_blank">Design Principles for Reducing Cognitive Load</a>
 
-##### 13 Days of Figma - Visual examples of User Centered Design inspired by Links of The Week
+##### 13 Days of Figma - Visual examples of User Centered Design inspired by [Links of The Week](/archive/){:title="Links of The Week"}{:alt="Links of The Week"}

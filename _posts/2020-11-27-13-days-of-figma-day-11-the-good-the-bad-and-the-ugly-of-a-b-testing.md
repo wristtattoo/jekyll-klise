@@ -17,4 +17,4 @@ Qualitative research can be concentrated and more targeted to gather meaningful 
 
 Inspired by [Issue 211](/issue-211-22-may-2020-a-b-testing-npm-yarn-seo-typography-sopranos/){:title="Issue 211"}{:alt="Issue 211"} - [The good, the bad and the ugly of A/B Testing](https://uxdesign.cc/the-good-the-bad-and-the-ugly-of-a-b-testing-clearleft-90d2f01efca8){:title="The good, the bad and the ugly of A/B Testing"}{:alt="The good, the bad and the ugly of A/B Testing"}{:target="_blank"}
 
-##### 13 Days of Figma - Visual examples of User Centered Design inspired by Links of The Week
+##### 13 Days of Figma - Visual examples of User Centered Design inspired by [Links of The Week](/archive/){:title="Links of The Week"}{:alt="Links of The Week"}

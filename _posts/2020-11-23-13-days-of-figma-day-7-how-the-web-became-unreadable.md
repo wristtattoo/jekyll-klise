@@ -13,4 +13,4 @@ Original article: [How the Web Became Unreadable](https://www.wired.com/2016/10/
 Taken from [Issue 25](/issue-25-27-october-2016-design-freebies-icons/){:title="Issue 25"}{:alt="Issue 25"} - [How the Web Became Unreadable](https://www.wired.com/2016/10/how-the-web-became-unreadable){:title="How the Web Became Unreadable"}{:alt="How the Web Became Unreadable"}{:target="_blank"}
 
 
-##### 13 Days of Figma - Visual examples of User Centered Design inspired by Links of The Week
+##### 13 Days of Figma - Visual examples of User Centered Design inspired by [Links of The Week](/archive/){:title="Links of The Week"}{:alt="Links of The Week"}

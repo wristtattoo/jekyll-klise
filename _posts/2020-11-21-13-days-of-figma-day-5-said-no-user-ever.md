@@ -13,4 +13,4 @@ Original article: [Said no user ever](https://uxdesign.cc/said-no-user-ever-1a37
 Taken from [Issue 115](/issue-115-27-july-2018-geocities-search-y2k-misinformation/){:title="Issue 115"}{:alt="Issue 115"} - [Said no user ever ](https://uxplanet.org/what-you-need-to-know-about-gestalt-principle-c440f5d7fc1d){:title="Said no user ever "}{:alt="Said no user ever "}{:target="_blank"}
 
 
-##### 13 Days of Figma - Visual examples of User Centered Design inspired by Links of The Week
+##### 13 Days of Figma - Visual examples of User Centered Design inspired by [Links of The Week](/archive/){:title="Links of The Week"}{:alt="Links of The Week"}

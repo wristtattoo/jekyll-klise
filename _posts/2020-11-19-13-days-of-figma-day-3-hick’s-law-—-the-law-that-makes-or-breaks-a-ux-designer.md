@@ -13,4 +13,4 @@ Original article: <a href="https://uxdesign.cc/do-you-know-the-law-that-makes-or
 
 Taken from <a href="/issue-208-1-may-2020-times-new-arial-typography-fonts-hicks-law-ux-ucd-ghibli-beastie-boys/" alt="Issue 208" title="Issue 208">Issue 208</a> -  <a href="https://uxdesign.cc/do-you-know-the-law-that-makes-or-breaks-a-ux-designer-hicks-law-6f2651400663" title="Hick’s Law — Do you know the law that makes or breaks a UX designer?" alt="Hick’s Law — Do you know the law that makes or breaks a UX designer?" target="_blank">Hick’s Law — Do you know the law that makes or breaks a UX designer?</a>
 
-##### 13 Days of Figma - Visual examples of User Centered Design inspired by Links of The Week
+##### 13 Days of Figma - Visual examples of User Centered Design inspired by [Links of The Week](/archive/){:title="Links of The Week"}{:alt="Links of The Week"}

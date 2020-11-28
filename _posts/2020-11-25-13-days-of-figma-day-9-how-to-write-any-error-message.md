@@ -15,4 +15,4 @@ Taken from [Issue 118](/issue-118-17-august-2018-dashboard-design-don-norman-err
 "}{:alt="Content design: How to write any error message
 "}{:target="_blank"}
 
-##### 13 Days of Figma - Visual examples of User Centered Design inspired by Links of The Week
+##### 13 Days of Figma - Visual examples of User Centered Design inspired by [Links of The Week](/archive/){:title="Links of The Week"}{:alt="Links of The Week"}
