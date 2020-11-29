@@ -8,8 +8,19 @@ tags: figma 13 days 13DOF
 ---
 ##### 13 Days of Figma - Visual examples of User Centered Design inspired by [Links of The Week](/archive/){:title="Links of The Week"}{:alt="Links of The Week"}
 
+### Day 13 - The Weird Words and Phrases Designers Use to Test Their Fonts
+Figma Prototype: <a href="/13-days-of-figma-day-13-the-weird-words-and-phrases-designers-use-to-test-their-fonts/" title="The Weird Words and Phrases Designers Use to Test Their Fonts" alt="The Weird Words and Phrases Designers Use to Test Their Fonts">Day 13 - The Weird Words and Phrases Designers Use to Test Their Fonts</a>
+
+> Readability metrics are based primarily on word, sentence and paragraph lengths but don’t reflect how well readers actually understand the text. Content influences readability too so if the message is clear and the text is readable using the above elements in harmony, in theory, the composition is deemed a success. ~ Terry
+
+Inspired by [Issue 52](/issue-52-12-may-2017-typeset-entrepreneurship-login-vs-signup-sketching/){:title="Issue 52"}{:alt="Issue 52"} - [Weird Words; Typeset](https://www.wired.com/2017/05/weird-words-phrases-designers-use-test-fonts/){:title="Weird Words; Typeset"}{:alt="Weird Words; Typeset"}{:target="_blank"}
+
+---
+
+<br><br>
+
 ### Day 12 - How to Measure Learnability of a User Interface
-Figma Prototype: <a href="/13-days-of-figma-day-12-how-to-measure-learnability-of-a-user-interface/" title="Day 11 - The good, the bad and the ugly of A/B Testing" alt="Day 12 - How to Measure Learnability of a User Interface">Day 12 - How to Measure Learnability of a User Interface</a>
+Figma Prototype: <a href="/13-days-of-figma-day-12-how-to-measure-learnability-of-a-user-interface/" title="Day 12 - How to Measure Learnability of a User Interface" alt="Day 12 - How to Measure Learnability of a User Interface">Day 12 - How to Measure Learnability of a User Interface</a>
 
 >  The learnability of a product tells us how fast users reach optimal behavior with that product. It is important to measure learnability for UIs that get used relatively frequently. A learnability study involves repeated measurements of the same participants completing the same task. The result of a learnability study is a learning curve that will uncover how many repetitions are needed in order for users to complete the task efficiently.
 
