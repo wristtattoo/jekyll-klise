@@ -10,7 +10,7 @@ date: 2020-12-18T16:12:00.468Z
 
 [It’s probably art. 2001, the Sublime, and the Utah Monolith](https://maxakohler.medium.com/its-probably-art-b554f7c5f3e0){:title="It’s probably art. 2001, the Sublime, and the Utah Monolith"}{:alt="It’s probably art. 2001, the Sublime, and the Utah Monolith"}{:target="_blank"}
 
-[Locomotive Scroll | Detection of elements in viewport & smooth scrolling with parallax effects.](https://locomotivemtl.github.io/locomotive-scroll/){:title="Locomotive Scroll | Detection of elements in viewport & smooth scrolling with parallax effects."}{:alt="Locomotive Scroll | Detection of elements in viewport & smooth scrolling with parallax effects."}{:target="_blank"}
+[Locomotive Scroll, Detection of elements in viewport & smooth scrolling with parallax effects.](https://locomotivemtl.github.io/locomotive-scroll/){:title="Locomotive Scroll, Detection of elements in viewport & smooth scrolling with parallax effects."}{:alt="Locomotive Scroll,Detection of elements in viewport & smooth scrolling with parallax effects."}{:target="_blank"}
 
 [8 Ways for Bringing Creativity to Hyperlinks with CSS & JavaScript](https://speckyboy.com/creative-hyperlinks-css-javascript/){:title="8 Ways for Bringing Creativity to Hyperlinks with CSS & JavaScript"}{:alt="8 Ways for Bringing Creativity to Hyperlinks with CSS & JavaScript"}{:target="_blank"}
 
@@ -20,4 +20,4 @@ date: 2020-12-18T16:12:00.468Z
 
 [Foursquare rebrands to show it’s not just “the check-in app”](https://www.designweek.co.uk/issues/7-13-december-2020/foursquare-rebrand/){:title="Foursquare rebrands to show it’s not just “the check-in app”"}{:alt="Foursquare rebrands to show it’s not just “the check-in app”"}{:target="_blank"}
 
-[7 graphic design trends that will dominate 2021 \[Infographic]](https://www.impactplus.com/blog/graphic-design-trends-2021){:title="7 graphic design trends that will dominate 2021 \[Infographic]"}{:alt="7 graphic design trends that will dominate 2021 \[Infographic]"}{:target="_blank"}
+[7 graphic design trends that will dominate 2021](https://www.impactplus.com/blog/graphic-design-trends-2021){:title="7 graphic design trends that will dominate 2021"}{:alt="7 graphic design trends that will dominate 2021"}{:target="_blank"}
