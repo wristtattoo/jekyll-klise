@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: terrywells.co.uk
+Token: a144b28278a99ea5baefce4947d3d587451f933057a06c5428e6d0087dec1375
