@@ -68,6 +68,7 @@ sass:
 include:
   - _redirects
   - .htaccess
+  - .well-known/brave-rewards-verification.txt
 
 exclude:
   - CNAME
