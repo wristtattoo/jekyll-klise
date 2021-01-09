@@ -6,6 +6,8 @@ date: 2021-01-08T10:28:13.373Z
 ---
 ![Typography Design Trends 2021](/assets/uploads/issue-244.jpg "Typography Design Trends 2021")
 
+# Links of The Week ending 8 January 2021
+
 [Typography Design Trends 2021](https://thewordcounter.com/typography-design-trends-2021/){:title="Typography Design Trends 2021"}{:alt="Typography Design Trends 2021"}{:target="_blank"}
 
 [Fundació Joan Brossa signs](https://fontsinuse.com/uses/37500/fundacio-joan-brossa-signs){:title="Fundació Joan Brossa signs"}{:alt="Fundació Joan Brossa signs"}{:target="_blank"}
