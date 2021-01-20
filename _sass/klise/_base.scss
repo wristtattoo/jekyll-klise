@@ -337,6 +337,41 @@ sup {
   margin-right: 2px;
 }
 
+// Form
+#my-form-id{
+  input[type=text], input[type=email] {
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid #acacac;
+    font-family: 'Courier New', Courier, monospace;
+    width: 99%;
+    height: 30px;
+    margin-bottom: 40px;
+    cursor: pointer;
+  };
+
+  textarea {
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid #acacac;
+    width: 99%;
+    height: 80px;
+    margin-bottom: 20px;
+    cursor: pointer;
+  };
+
+  input[type=button], input[type=submit], input[type=reset] {
+    background-color: #333;
+    color:white;
+    border: none;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    float: right;
+    cursor: pointer;
+  }
+}
+
 // Table
 .overflow-table {
   overflow-x: auto;
