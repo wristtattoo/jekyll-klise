@@ -253,7 +253,7 @@ body[data-theme="dark"] {
     color: $white;
     background-color: transparent;
     border-bottom: 2px solid #acacac;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: $mono-family;
     width: 99%;
     height: 30px;
     margin-bottom: 40px;
@@ -265,6 +265,7 @@ body[data-theme="dark"] {
     color: $white;
     background-color: transparent;
     border-bottom: 2px solid #acacac;
+    font-family: $mono-family;
     width: 99%;
     height: 80px;
     margin-bottom: 20px;

@@ -7,4 +7,4 @@ comments: false
 tags: UX UI UCD HCI
 ---
 
-Your message has been received and will be answered as soon as it is possible 🙏🏻
+<p style="text-align: center;">Your message has been received and will be answered as soon as possible 🙏🏻</p>

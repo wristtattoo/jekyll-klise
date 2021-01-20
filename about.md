@@ -19,8 +19,7 @@ To get hold of a current CV/résumé <a href="/contact/">contact</a> Terry.
 
 Terry is a full-time UX/UI Designer 🧘‍♂️ and participating member of UX/UI/UCD HCI at The Interaction Design Foundation, Denmark. A portfolio of work is available on request.
 
-# TL;DR Testimonials
-
+# Rockstar testimonials
 ## Anthony Kiedis - Red Hot Chili Peppers
 
 > "Terry – Thanks for taking the time and spending the energy to chronicle the history of our band. Good work and all the best" ~ <a href="https://blackiedammett.com/" title="Anthony" alt="Anthony">Anthony (Red Hot Chili Peppers)</a>
