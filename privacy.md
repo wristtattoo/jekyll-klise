@@ -28,8 +28,7 @@ His website uses cookies to distinguish you from other users of our website. Thi
 ### How he may use the information he collects
 
 He uses the information in the following ways:
-
-Information you supply to him. He will use this information to provide you with information and/or services that you request from him.
+* Information you supply to him. He will use this information to provide you with information and/or services that you request from him.
 
 ##### Information he automatically collects about you. He will use this information:
 
@@ -52,10 +51,12 @@ Unfortunately, the transmission of information via the internet is not completel
 His site contains links to and from the third party websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that he does not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 ### Your rights – access to your personal data
-You have the right to ensure that your personal data is being processed lawfully (“Subject Access Right”). Your subject access right can be exercised in accordance with data protection laws and regulations. Any subject access request must be made in writing to [insert school/Trust Data Controller contact details]. He will provide your personal data to you within the statutory time frames unless it has been automatically deleted on Formcake within the 30 days described above. To enable him to trace any of your personal data that he may be holding, he may need to request further information from you. If you have a complaint about how he has used your information, you have the right to complain to the Information Commissioner’s Office (ICO).
+You have the right to ensure that your personal data is being processed lawfully (“Subject Access Right”). Your subject access right can be exercised in accordance with data protection laws and regulations. Any subject access request must be made in writing to him. He will provide your personal data to you within the statutory time frames unless it has been automatically deleted on Formcake within the 30 days from reciept. To enable him to trace any of your personal data that he may be holding, he may need to request further information from you. If you have a complaint about how he has used your information, you have the right to complain to the Information Commissioner’s Office (ICO).
 
 ### Changes to our privacy policy
 Any changes he may make to his privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
 
 ### Contact
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to him via the [contact page](/contact/){:title="link to contact page"}{:alt="link to contact page"}.
+
+<small>Version 1.0 Friday 22 January 2021</small>
