@@ -16,6 +16,6 @@ date: 2021-01-22T10:12:40.737Z
 
 [List of the best fonts for coding with live preview devfonts.gafi.dev](https://devfonts.gafi.dev/){:title="List of the best fonts for coding with live preview devfonts.gafi.dev"}{:alt="List of the best fonts for coding with live preview devfonts.gafi.dev"}{:target="_blank"}
 
-\[EB Garamond is intended to be an excellent, classical, Garamond. It is a community project to create a revival of Claude Garamont’s famous humanist typefaces from the mid-16th century](https://fonts.google.com/specimen/EB+Garamond){:title="EB Garamond is intended to be an excellent, classical, Garamond."}{:alt="EB Garamond is intended to be an excellent, classical, Garamond."}{:target="_blank"}
+[EB Garamond is intended to be an excellent, classical, Garamond. Available on Google Fonts](https://fonts.google.com/specimen/EB+Garamond){:title="EB Garamond"}{:alt="EB Garamond"}{:target="_blank"}
 
 [No more Facebook → Privacy-friendly alternatives to Facebook that don't track you](https://nomorefacebook.xyz/){:title="No more Facebook → Privacy-friendly alternatives to Facebook that don't track you"}{:alt="No more Facebook → Privacy-friendly alternatives to Facebook that don't track you"}{:target="_blank"}
