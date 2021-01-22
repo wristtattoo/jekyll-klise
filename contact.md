@@ -18,6 +18,10 @@ tags: contact UX UI UCD HCI
   <label for="message">Message </label>
   <textarea rows="5" name="message" id="message" required=""></textarea>
 
+  <small>
+  by pressing send you agree to terms and conditions set out in this <a href="/privacy/" title="Privacy Policy" alt="Privacy Policy">privacy policy</a>
+  </small>
+
   <input type="submit" value="Send">
 
 </form>
