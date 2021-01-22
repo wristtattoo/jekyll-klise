@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Issue 246 - 22 January 2021 (css, typography, typefaces and fonts)
-tags: css typography typefaces fonts
+tags: css typography typefaces google fonts accessibility buttons
 date: 2021-01-22T10:12:40.737Z
 ---
 ![min(), max(), and clamp()](/assets/uploads/issue-246.gif "min(), max(), and clamp()")
