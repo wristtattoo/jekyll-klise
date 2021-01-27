@@ -15,8 +15,6 @@ Terry resides in Brigg, North Lincolnshire, United Kingdom.
 
 > Being curious, interested in users behavior and looking to understand the reasons behind users actions. Observing and inquiring eventually to create a solution. Thinking in needs, not features. Being open-minded, listening and empathising. Savouring the process of trying to understand the "why" behind the problem and studying the situation and not putting the solution before the problem ~ Terry
 
-To get hold of a current CV/résumé <a href="/contact/">contact</a> Terry.
-
 Terry is a full-time UX/UI Designer 🧘‍♂️ and participating member of UX/UI/UCD HCI at The Interaction Design Foundation, Denmark. A portfolio of work is available on request.
 
 # Rockstar testimonials

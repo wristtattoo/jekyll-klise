@@ -10,10 +10,6 @@
   url: /about/
   external: false
 
-- title: contact
-  url: /contact/
-  external: false
-
 - title: 13DoF
   url: /13daysoffigma/
   external: false # set true if you using external link, see below
