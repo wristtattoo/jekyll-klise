@@ -6,7 +6,7 @@ date: 2021-03-05T09:50:08.344Z
 ---
 ![Can logos change anything? And why do logos get changed?](/assets/uploads/issue-252.png "Can logos change anything? And why do logos get changed?")
 
-# Links of The Week ending 26 February 2021
+# Links of The Week ending 5 March 2021
 
 [Creativeboom - Can logos change anything? And why do logos get changed?](https://www.creativeboom.com/resources/can-logos-change-anything/){:title="Can logos change anything? And why do logos get changed?"}{:alt="Can logos change anything? And why do logos get changed?"}{:target="_blank"}
 
