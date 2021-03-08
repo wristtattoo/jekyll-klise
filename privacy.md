@@ -12,7 +12,7 @@ This website is operated by Terry Wells and he is committed to protecting and pr
 This policy sets out how he processes any personal data he collects from you or that you provide to him through this website. He confirms that he will keep your information secure and that he will comply fully with all applicable UK Data Protection legislation and regulations. Please read the following carefully to understand what happens to personal data that you choose to provide to him, or that he collects from you when you visit this site. By visiting terrywells.co.uk (his website) you are accepting and consenting to the practices described in this policy.
 
 ### Types of information he may collect from you
-He may collect, store and use the following kinds of personal information about individuals who visit and use our website:
+He may collect, store and use the following kinds of personal information about individuals who visit and use this website:
 
 * Information you supply to him. You may supply him with information about you by filling in forms on his website. This includes information you provide when you submit a contact/enquiry form. The information you give him may include your name, address, e-mail address and phone number.
 
