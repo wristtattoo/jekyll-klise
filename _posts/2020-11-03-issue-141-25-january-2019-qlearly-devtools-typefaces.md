@@ -14,4 +14,4 @@ date: 2019-01-25T15:21:15.769Z
 
 <a href="https://app.programmingfonts.org/" target="_blank">Programming Fonts: legible typefaces for your programming tool</a>
 
-[70+ Best Free Fonts for Designers – Free for Commercial Use in 2021] via Natalia P 🙏🏻(https://www.websiteplanet.com/blog/best-free-fonts/){:title="70+ Best Free Fonts for Designers – Free for Commercial Use in 2021"}{:alt="70+ Best Free Fonts for Designers – Free for Commercial Use in 2021"}{:target="_blank"}
+[70+ Best Free Fonts for Designers – Free for Commercial Use in 2021 (via Natalia P 🙏🏻)] (https://www.websiteplanet.com/blog/best-free-fonts/){:title="70+ Best Free Fonts for Designers – Free for Commercial Use in 2021"}{:alt="70+ Best Free Fonts for Designers – Free for Commercial Use in 2021"}{:target="_blank"}
