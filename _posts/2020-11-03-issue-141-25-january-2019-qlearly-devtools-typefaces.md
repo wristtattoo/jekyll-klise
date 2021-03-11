@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Issue 141 - 25 January 2019 (qlearly, devtools, typefaces)
-tags: qlearly devtools typefaces
+tags: qlearly devtools typefaces programming fonts
 date: 2019-01-25T15:21:15.769Z
 ---
 ![Qlearly](/assets/uploads/issue-141.png "Qlearly")
@@ -14,4 +14,4 @@ date: 2019-01-25T15:21:15.769Z
 
 <a href="https://app.programmingfonts.org/" target="_blank">Programming Fonts: legible typefaces for your programming tool</a>
 
-[70+ Best Free Fonts for Designers – Free for Commercial Use in 2021] (https://www.websiteplanet.com/blog/best-free-fonts/){:title="70+ Best Free Fonts for Designers – Free for Commercial Use in 2021"}{:alt="70+ Best Free Fonts for Designers – Free for Commercial Use in 2021"}{:target="_blank"} - via Natalia P 🙏🏻
+<a href="https://qlearly.com/" target="_blank">70+ Best Free Fonts for Designers – Free for Commercial Use in 2021</a>
