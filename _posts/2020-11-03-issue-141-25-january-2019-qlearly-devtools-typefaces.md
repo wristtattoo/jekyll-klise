@@ -13,5 +13,3 @@ date: 2019-01-25T15:21:15.769Z
 <a href="https://umaar.com/dev-tips/190-five-popular-2018-tips" target="_blank">Chrome DevTools: the five most popular DevTools tips from 2018</a>
 
 <a href="https://app.programmingfonts.org/" target="_blank">Programming Fonts: legible typefaces for your programming tool</a>
-
-<a href="https://qlearly.com/" target="_blank">70+ Best Free Fonts for Designers – Free for Commercial Use in 2021</a>
