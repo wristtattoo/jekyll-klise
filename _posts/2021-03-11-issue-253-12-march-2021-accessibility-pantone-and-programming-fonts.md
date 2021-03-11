@@ -2,7 +2,7 @@
 layout: post
 title: Issue 253 - 12 March 2021 (accessibility, pantone and programming fonts)
 tags: design systems accessibility css free commercial programming fonts
-date: 2021-03-12T10:19:52.329Z
+date: 2021-03-12T01:19:00.000Z
 ---
 ![Can we make Pantone’s color of the year more accessible?](/assets/uploads/issue-253.png "Can we make Pantone’s color of the year more accessible?")
 
