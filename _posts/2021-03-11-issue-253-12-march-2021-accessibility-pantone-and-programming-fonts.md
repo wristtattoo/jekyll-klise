@@ -25,4 +25,4 @@ that helps you create amazing products easier, and faster.](https://cabanaforfig
 that helps you create amazing products easier, and faster."}{:alt="Cabana is a Design System for Figma
 that helps you create amazing products easier, and faster."}{:target="_blank"}
 
-[Pentagram's identity for gaming brand Nuverse reflects 'excitement and escapism'](https://www.creativeboom.com/inspiration/nuverse-pentagram/){:title="Pentagram's identity for gaming brand Nuverse reflects 'excitement and escapism'"}{:alt="Pentagram's identity for gaming brand Nuverse reflects 'excitement and escapism'"}{:target="_blank"} via creativeboom
+[Pentagram's identity for gaming brand Nuverse reflects 'excitement and escapism'](https://www.creativeboom.com/inspiration/nuverse-pentagram/){:title="Pentagram's identity for gaming brand Nuverse reflects 'excitement and escapism'"}{:alt="Pentagram's identity for gaming brand Nuverse reflects 'excitement and escapism'"}{:target="_blank"}
