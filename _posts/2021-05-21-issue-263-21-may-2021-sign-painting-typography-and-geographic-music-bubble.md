@@ -7,7 +7,7 @@ date: 2021-05-21T18:55:51.617Z
 ![When Better Letters Met Barbara Enright](/assets/uploads/issue-263.png "When Better Letters Met Barbara Enright")
 <sub><sup>When Better Letters Met Barbara Enright</sup></sub>
 
-#Links of The Week ending 21 May 2021
+# Links of The Week ending 21 May 2021
 
 [When Better Letters Met Barbara Enright](https://betterletters.co/barbara/){:title="When Better Letters Met Barbara Enright"}{:alt="When Better Letters Met Barbara Enright"}{:target="_blank"}
 
