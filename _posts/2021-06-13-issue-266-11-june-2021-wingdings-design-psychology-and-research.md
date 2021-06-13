@@ -8,7 +8,7 @@ date: 2021-06-13T13:18:34.690Z
 
 <sub><sup>Wingdings characters License: Public Domain</sup></sub>
 
-\#Links of The Week ending 11 June 2021
+# Links of The Week ending 11 June 2021
 
 [The origin story of the Wingdings font](https://uxdesign.cc/the-origin-story-of-the-wingdings-font-3b2ba088117f){:title="The origin story of the Wingdings font"}{:alt="The origin story of the Wingdings font"}{:target="_blank"}
 
