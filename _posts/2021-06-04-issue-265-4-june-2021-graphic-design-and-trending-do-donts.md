@@ -7,6 +7,8 @@ date: 2021-06-04T16:20:09.887Z
 ![Graphic Designer Jun Lin](/assets/uploads/issue-265.jpeg "Graphic Designer Jun Lin")
 <sub><sup>Graphic Designer Jun Lin article by creativeboom.com</sup></sub>
 
+#Links of The Week ending 4 June 2021
+
 [Jun Lin's Slow Forage shows a considered love of language, art and graphic design](https://www.creativeboom.com/inspiration/slow-forage/){:title="Jun Lin's Slow Forage shows a considered love of language, art and graphic design"}{:alt="Jun Lin's Slow Forage shows a considered love of language, art and graphic design"}{:target="_blank"}
 
 [Redact. The only platform that allows you to automatically clean up your old posts from services like Twitter, Reddit, Facebook, Discord and more all in one place](url){:title="Redact. The only platform that allows you to automatically clean up your old posts from services like Twitter, Reddit, Facebook, Discord and more all in one place"}{:alt="Redact. The only platform that allows you to automatically clean up your old posts from services like Twitter, Reddit, Facebook, Discord and more all in one place"}{:target="_blank"}
