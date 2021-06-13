@@ -7,6 +7,8 @@ date: 2021-05-29T10:18:48.766Z
 ![The Little Book of Accessibility](/assets/uploads/issue-264.png "The Little Book of Accessibility")
 <sub><sup>The Little Book of Accessibility</sup></sub>
 
+#Links of The Week ending 28 May 2021
+
 [The Little Book of Accessibility](https://uxdesign.cc/the-little-book-of-accessibility-a9b59d82b412){:title="The Little Book of Accessibility"}{:alt="The Little Book of Accessibility"}{:target="_blank"}
 
 [Beyond Calibri: Finding Microsoft’s Next Default Font](https://medium.com/microsoft-design/beyond-calibri-finding-the-next-microsoft-365-default-font-5ef83f028be2){:title="Beyond Calibri: Finding Microsoft’s Next Default Font"}{:alt="Beyond Calibri: Finding Microsoft’s Next Default Font"}{:target="_blank"}
