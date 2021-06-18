@@ -5,7 +5,6 @@ tags: wingdings, psychology, research
 date: 2021-06-13T13:18:34.690Z
 ---
 ![The origin story of the Wingdings font](/assets/uploads/issue-266.png "The origin story of the Wingdings font")
-
 <sub><sup>Wingdings characters License: Public Domain</sup></sub>
 
 # Links of The Week ending 11 June 2021
