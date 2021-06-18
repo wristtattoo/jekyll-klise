@@ -6,7 +6,6 @@ tags: skeuomorphism neumorphism ux books sign painting fonts
 date: 2021-05-14T07:06:02.572Z
 ---
 ![Tridimensionality: skeuomorphism, flat design, and neumorphism](/assets/uploads/issue-262.png "Tridimensionality: skeuomorphism, flat design, and neumorphism")
-
 <sub><sup>Tridimensionality: skeuomorphism, flat design, and neumorphism</sup></sub>
 
 # Links of The Week ending 14 May 2021
