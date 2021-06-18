@@ -5,7 +5,6 @@ tags: photography apple ux ui tips typography
 date: 2021-05-07T06:57:00.000Z
 ---
 ![Apple packaging like you’ve never seen it before](/assets/uploads/issue-261.jpg "Apple packaging like you’ve never seen it before")
-
 <sub><sup>Apple packaging like you’ve never seen it before</sup></sub>
 
 # Links of The Week ending 7 May 2021
