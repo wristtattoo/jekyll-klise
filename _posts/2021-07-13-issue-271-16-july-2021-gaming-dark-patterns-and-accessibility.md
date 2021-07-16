@@ -6,9 +6,10 @@ date: 2021-07-16T00:00:54.779Z
 ---
 ![Avoid addictive gaming dark patterns](/assets/uploads/issue-271.jpg "Avoid addictive gaming dark patterns")
 <sub><sup>from - darkpattern.games</sup></sub>
+
 # Links of The Week ending 16 July 2021
 
-[Avoid addictive gaming dark patterns.]A game review website devoted to helping you find games that don't use psychological tricks to manipulate you into becoming an addicted gamer.(https://www.darkpattern.games/){:title="Avoid addictive gaming dark patterns. A game review website devoted to helping you find games that don't use psychological tricks to manipulate you into becoming an addicted gamer."}{:alt="Avoid addictive gaming dark patterns. A game review website devoted to helping you find games that don't use psychological tricks to manipulate you into becoming an addicted gamer."}{:target="_blank"}
+\[Avoid addictive gaming dark patterns. A game review website devoted to helping you find games that don't use psychological tricks to manipulate you into becoming an addicted gamer.](https://www.darkpattern.games/){:title="Avoid addictive gaming dark patterns. A game review website devoted to helping you find games that don't use psychological tricks to manipulate you into becoming an addicted gamer."}{:alt="Avoid addictive gaming dark patterns. A game review website devoted to helping you find games that don't use psychological tricks to manipulate you into becoming an addicted gamer."}{:target="_blank"}
 
 [Why skip-links are important for accessibility
 Why skip-links are important for accessibility](https://www.voorhoede.nl/en/blog/why-skip-links-are-important-for-accessibility/){:title="Why skip-links are important for accessibility
